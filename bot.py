@@ -1,5 +1,7 @@
 import asyncio
 import random
+from flask import Flask
+from threading import Thread
 
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import (
@@ -13,6 +15,28 @@ from telegram.ext import (
     filters,
 )
 
+app = Flask('')
+@app.route('/')
+def home():
+    return "Bot is alive!"
+
+def run():
+    # Render provides a PORT environment variable automatically
+    port = int(os.environ.get("PORT", 8080))
+    app.run(host='0.0.0.0', port=port)
+
+# Start the Flask server in a background thread
+def keep_alive():
+    t = Thread(target=run)
+    t.start()
+
+# --- Your existing bot code ---
+if __name__ == "__main__":
+    keep_alive()  # Start the dummy web server
+    
+    # Put your existing bot.run_polling() or main() call here
+    print("Bot is starting...")
+
 import os
 TOKEN = os.getenv("TOKEN")
 
@@ -20,6 +44,7 @@ if not TOKEN:
     raise ValueError("TOKEN environment variable is not set!")
 
 NAME, GROUP, SUBJECT, QUIZ = range(4)
+
 
 
 # ─────────────────────────────────────────────
