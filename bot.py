@@ -2,7 +2,7 @@ import asyncio
 import random
 from flask import Flask
 from threading import Thread
-
+import os
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import (
     ApplicationBuilder,
@@ -37,7 +37,7 @@ if __name__ == "__main__":
     # Put your existing bot.run_polling() or main() call here
     print("Bot is starting...")
 
-import os
+
 TOKEN = os.getenv("TOKEN")
 
 if not TOKEN:
