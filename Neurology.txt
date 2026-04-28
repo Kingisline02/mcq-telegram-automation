@@ -1,0 +1,913 @@
+
+
+How many lobes does the brain have?
+4
+3
+2
+1
+
+Number of segments in the cervical spinal cord
+8
+10
+7
+6
+
+Number of segments in the thoracic spinal cord
+12
+10
+8
+14
+
+Number of segments in the lumbar spinal cord
+5
+4
+8
+2
+
+Specify the unpaired lobe of the brain?
+Occipital
+Temporal
+Parietal
+Frontal
+
+What cranial nerve nuclei are located in the pons?
+V; VI; VII; VIII
+V; VI; VII; VIII
+IX, X, XI, XII
+VIII; IX; X
+The part of the brain that is the material basis of human mental activity is?
+cerebral cortex
+medulla
+midbrain
+diencephalon
+Where does nerve impulse transmission occur?
+in synapses
+in mitochondria
+in lysosomes
+in the cytoplasm
+
+The doctor revealed a lesion of the patient's midbrain. Indicate which cranial nerve damage allowed the diagnosis to be established?
+III, IV
+IV, V, VI
+IX, XI, XII
+VII, VIII
+
+In what area of the internal capsule are the fibers of the cortical-spinal tract located?
+In the anterior two-thirds of the posterior thigh
+At the knee
+In the anterior thigh
+In the posterior third of the posterior thigh
+
+Where do the fibers of the cortical-spinal pathway end?
+In the anterior horns of the spinal cord
+In the lateral horns of the spinal cord
+In the posterior horns of the spinal cord
+In the motor nuclei of the cranial nerves
+
+Specify at the level of which segments the upper abdominal reflex closes?
+D7 - D8
+D9 - D10
+D8 - D10
+D11 - D12
+
+Specify at the level of which segments the flexion - elbow reflex closes?
+C5 - C6
+C3 - C4
+C7 - C8
+C6 - C7
+
+Specify at the level of which segments the knee reflex closes?
+L2 - L4
+L1 - L3
+L2 - L3
+D11 - D12
+
+
+Specify at the level of which segments the extensor - elbow reflex closes?
+C7 - C8
+C6 - C7
+C5 - C6
+C3 - C4
+
+The pathological reflexes of the flexor group include?
+Rossolimo, Zhukovsky - Kornilov, Bekhterev - Mendel
+Rossolimo, Zhukovsky - Kornilov, Oppenheim
+Rossolimo, Zhukovsky - Kornilov, Schaefer
+Rossolimo, Bekhterev - Mendel, Poussepp
+
+Pathological extensor reflexes include?
+Oppenheim, Gordon, Schaeffer
+Babinsky, Rossolimo, Schaeffer
+Oppenheim, Schiffer, Brudzinsky's lower symptom
+Oppenheim, Gordon, Strumpel
+
+
+The doctor identified a central paresis in the patient. What are the signs of central paralysis?
+The presence of synkinesia 
+Hypotension
+Atony 
+Atrophy
+
+In which of the following formations are the conductors of both pain and temperature, and deep sensitivity?
+back roots
+the lateral cord of the spinal cord
+the posterior cord of the spinal cord
+the posterior horns of the spinal cord
+
+In the posterior horns of the spinal cord located?
+The second neurons of the path of pain and temperature sensitivity
+Vegetative sympathetic cells
+The first neurons of the path of pain and temperature sensitivity
+Clark pillar cells
+
+In what part of the inner capsule do the sensing conductors pass?
+posterior 1/3 of posterior femur
+anterior 2/3 of anterior femur
+posterior 1/3 of anterior femur
+knee
+
+
+What is the name of the ability to identify numbers and figures drawn on the skin with a blunt object?
+two-dimensional spatial sense
+discriminatory feeling
+sense of stereognosis
+skin-kinesthetic sense
+
+Where and what types of sensitivity are disturbed in case of damage to the left visual tubercle?
+Superficial and deep sensitivity on the right
+Superficial and deep sensitivity on the left
+Superficial sensitivity on the left, deep - on the right
+Superficial sensitivity on the right, deep - on the left
+
+
+What is the structure of the brain that belongs to the extrapyramidal system?
+Caudate nucleus
+Goll and Burdach kernels
+Anterior horns of the spinal cord
+Precentral gyrus
+
+What is the structure of the brain that belongs to the palidar section of the extrapyramidal system?
+black substance
+shell
+fencing
+4,6,8 cortical fields (according to Brodmann)
+
+
+What is a reliable clinical sign of Parkinson's syndrome?
+oligobradykinesia
+paresis
+hypoalgesia
+micrography
+
+The patient, against the background of high body temperature, developed involuntary slow worm-like movements in the fingers of his left hand. It?
+Athetosis
+Tremor
+Hemibalism
+Torticolis
+With rapid supination and pronation, the patient's movements are awkward, sweeping and out of sync. What is the name of the symptom?
+adiadochokinesis
+asynergy
+dysmetria
+backlash symptom
+
+Which of the following symptoms indicates damage to the cerebellum?
+ataxia
+spastic paresis
+flaccid paresis
+cog wheel symptom
+
+The patient bends the arm with the hand folded into a fist to the horizontal at the elbow joint, and the doctor tries to straighten the forearm. With a sudden cessation of resistance, the subject's hand hits the chest with force. What is the name of the test?
+Stuart Holmes test
+Index test
+Babinsky's test
+Ozhechovsky's test
+
+What type of gait is typical for cerebellar lesions?
+"drunk"
+"stamping"
+"cock"
+"steppage"
+
+Which of the following methods are methods for studying the function of the cerebellum?
+Schilder's test
+Barre test
+Symptom Neri
+Symptom Lesage
+
+Methods for studying the function of the cerebellum include?
+Study of gait, muscle tone, finger-nose test
+Muscle strength study, deep sensitivity study
+Finger-nose test, muscle tone, surface sensitivity test
+Examination of deep sensitivity, muscle tone, finger-nose test
+
+
+The patient has ataxia, scrambled speech, intentional tremor. It?
+ Cerebellar ataxia
+ Vestibular ataxia
+ Sensitive ataxia
+ Astasia-abasia
+
+
+The patient has a tumor of the cerebellum. What speech disorder does he have?
+Scanned speech
+Nasal
+Quiet monotonous
+Aphasia
+
+Specify the afferent arc of the pupillary reflex?
+Optic nerve
+Trigeminal nerve
+Abducens nerve
+Oculomotor nerve
+
+Specify the efferent arc of the pupillary reflex?
+Oculomotor nerve
+Optic nerve
+Trigeminal nerve
+Abducens nerve
+
+What structures are affected by loss of sensitivity on the face according to the peripheral type?
+Superior branch of the trigeminal nerve
+Trigeminal nucleus
+Internal capsule
+Talamo-cortical pathway
+
+What does the abducens nerve innervate?
+Musculus rectus lateralis
+Musculus rectus medialis
+Musculus obliqvus inferior
+Musculus obliquus superior
+
+In what region of the cortex is the center of smell located?
+In the parahypocampal gyrus
+In the optic tubercle
+In the hypothalamus
+In the outer geniculate body
+
+Where is the lesion located in visual hallucinations?
+In the cerebral cortex of the occipital lobe
+In the outer geniculate body
+In the optic tubercle
+In the optic tract
+
+Specify the symptom of trochlear nerve lesion?
+Diplopia when looking down
+Mild exotropia
+Strabismus
+Diplopia when looking outward
+
+
+Where is the focus located in bitemporal hemianopia?
+At the level of the chiasm
+Optic tract
+In the area of the outer parts of the chiasm
+Occipital lobe
+
+The patient was found to have oculomotor disorders on the left, central hemiparesis on the right. Where is the lesion?
+Midbrain
+Radiant crown
+Internal capsule
+Bridge
+
+Specify, where does the decussation of the cortico-nuclear pathway to the nucleus of the hypoglossal nerve occur?
+In the medulla oblongata
+In the legs of the brain
+At the border of the transition of the medulla oblongata to the spinal cord
+In the bridge
+
+Specify, where does the decussation of the corticonuclear pathway to the motor nucleus of the vagus nerve occur?
+In the medulla oblongata
+At the border of the transition of the medulla oblongata to the spinal cord
+In the bridge
+In the legs of the brain
+
+What muscles receive unilateral cortical innervation?
+Tongue
+Chewable
+Oculomotor
+Upper mimic muscles
+
+Determine which of the following symptoms is common for bulbar and pseudobulbar syndromes?
+dysarthria
+tongue muscle atrophy
+decreased gag reflex
+reflexes of oral automatism 
+
+Which of the following symptoms is common for bulbar and pseudobulbar syndromes?
+dysphagia
+tongue muscle atrophy
+decreased gag reflex
+reflexes of oral automatism
+
+Name which of the following symptoms is common for bulbar and pseudobulbar syndromes?
+dysphonia
+reflexes of oral automatism
+violent laughing or crying
+tongue muscle atrophy 
+
+Specify the localization of the pathological focus in pseudobulbar syndrome?
+cortical-nuclear pathways in both hemispheres of the brain
+brain stem
+bridge
+medulla
+
+What is the symptom of bulbar syndrome?
+no gag reflex
+violent laughing or crying
+lack of atrophy of the muscles of the tongue
+increased gag reflex
+
+Specify the symptom of bulbar syndrome?
+tongue muscle atrophy
+increased gag reflex
+lack of atrophy of the muscles of the tongue 
+violent laughing or crying
+
+What is the symptom of pseudobulbar syndrome?
+reflexes of oral automatism
+loss of sensation in 1/3 of the tongue
+fibrillar twitching of the muscles of the tongue
+no gag reflex
+
+What is the pathology of speech characteristic of bulbar syndrome?
+dysarthria
+mutism
+quiet, monotonous speech
+scanned speech
+
+What nerve is affected with dysphonia?
+IX
+VIII
+ХI
+ХII
+
+The doctor diagnosed the patient with symptoms of damage to the IX, X, XI and XII nerves on the right and left-sided hemiparesis. Where is the lesion?
+medulla oblongata on the right
+medulla oblongata on the left
+bridge on the right
+bridge on the left
+
+Where is the lesion in the presence of apraxia in the patient?
+parietal lobe
+occipital lobe
+temporal lobe
+cerebellum
+
+Where is the lesion if the patient has agraphy?
+frontal lobe
+parietal lobe
+occipital lobe
+temporal lobe
+
+ Where is the lesion in the presence of Alexia in the patient?
+parietal lobe
+occipital lobe
+temporal lobe
+cerebellum
+
+ Where is the lesion if the patient has acalculia?
+parietal lobe
+occipital lobe
+temporal lobe
+cerebellum
+
+ Where is the lesion if the patient has visual agnosia?
+occipital lobe
+temporal lobe
+cerebellum
+frontal lobe
+
+The patient was diagnosed with a cyst on a CT scan of the brain, which irritates the upper part of the precentral gyrus on the right. Name the symptoms:
+Jackson's epilepsy in the left leg
+Central paresis of facial muscles
+Spastic monoplegia of the left hand
+Jackson's epilepsy in the left hand
+
+The patient periodically has seizures in his left arm without loss of consciousness. Where is the focus localized?
+The middle section of the precentral gyrus on the right
+The middle section of the precentral gyrus on the left
+The lower part of the precentral gyrus on the right
+The upper part of the precentral gyrus on the right
+
+The patient has astereognosis in his left arm. The superficial and deep sensitivity in the hand is preserved. Specify the localization of the pathological focus: 
+ Right parietal lobe 
+ Left temporal lobe 
+ Right temporal lobe 
+ The visual hillock
+
+Specify the area of the brain in which the alpha rhythm on the EEG is best expressed?
+ occipital
+ parietal
+ frontal
+ precentral gyrus
+
+Specify the most informative method of examination for brain tumors?
+MRI
+CT
+ENMG
+EEG
+
+The most reliable method of diagnosing intracranial aneurysms?
+Angiography
+ Computed tomography scanning
+ Positron emission tomography
+ Computed tomography by single photon emission method
+
+The most reliable method of diagnosis of arteriovenous malformations of the brain?
+Angiography
+ Computed tomography scanning
+ Positron emission tomography
+ Computed tomography by single photon emission method
+
+The most reliable method of diagnosing the demyelinating process of the brain?
+ Magnetic resonance scanning
+Angiography
+ Computed tomography scanning
+ Positron emission tomography
+
+What is the name of the method of examining the main vessels of the head in the extracranial and intracranial departments?
+ultrasound dopplerography
+rheoencephalography
+electroneuromyography
+echoencephalography
+
+What is the name of the method of registering bioelectric activity of the brain through intact head coverings?
+ electroencephalography
+echoencephalography
+ultrasound dopplerography
+rheoencephalography
+
+What is the most informative research method for spinal cord tumors?
+Magnetic resonance imaging
+Lumbar puncture
+Radiography of the spine
+Myelography
+
+Choose a combination of clinical syndromes that are inherent in ischemic stroke? 
+ focal, cerebral
+general infectious, cerebral, focal
+cerebral, meningeal, liquor
+cerebral, focal, liquor
+
+Specify the stages of the acute period of stroke? 
+ precursors, apoplectic stroke, focal changes
+precursors, focal changes
+cephalgic, focal changes
+harbingers, apoplectic stroke
+
+How long does the acute period of ischemic stroke last? 
+ 21 days
+14 days
+28 days
+1 day
+
+What disease should be differentiated from ischemic stroke with a gradual increase in focal symptoms? 
+ brain tumor
+brain abscess
+encephalitis
+encephalopathy
+
+What disease should be differentiated from ischemic stroke in apoplectiform development? 
+ hemorrhagic stroke
+brain tumor
+brain abscess
+encephalitis
+
+The most important pathogenetic mechanisms of atherothrombotic stroke? 
+ occlusion of the main arteries of the head
+increased blood coagulability
+increased adhesion and aggregation of blood cells
+disruption of autoregulation of cerebral circulation with a sharp increase or decrease in blood pressure
+
+The most effective methods of treating atherothrombotic stroke in the first 3 hours from its onset? 
+ use of tissue plasminogen activator (actilize).
+use of direct anticoagulants (heparin, fraxiparin, phenylin)
+use of antiplatelet agents (aspirin, ticlid, Plavix, etc.).
+use of vasoactive agents (Cavinton, pentoxifylline, euphylline).
+
+What is the most common cause of cardioembolic stroke? 
+ atrial fibrillation
+rheumatism
+atherosclerosis
+septic endocarditis
+
+What paraclinical examination methods can be used to verify a stroke? 
+ CT scan
+Echo-ES
+Studies of blood coagulating properties
+Doppler ultrasound
+
+In case of acute cerebrovascular accident, in which area of the brain can alternating syndromes occur? 
+ bridge
+inner capsule
+thalamus
+hypothalamus
+
+Which of the following nosologies should be differentiated from encephalomyelitis most often? 
+ multiple sclerosis
+amyotrophic lateral sclerosis
+parainfectious encephalitis
+spinal tumor
+
+How is prednisolone prescribed for the treatment of exacerbation of multiple sclerosis? 
+ 1.0 mg/kg
+0.6 mg/kg
+0.5 mg/kg
+0.1 mg/kg
+
+Criteria for diagnosing “definite multiple sclerosis” 
+ presence of two clinical lesions and at least two exacerbations
+the presence of one clinical focus and at least two exacerbations
+presence of lower spastic paraparesis
+presence of lower spastic paraparesis and pelvic disorders
+
+Criteria for diagnosing multiple sclerosis on MRI 
+ presence of foci of demyelination in the white matter of the brain, 2 of them - periventricular
+the presence of foci of demyelination and atrophy of the cerebral cortex
+presence of foci of demyelination in the brain stem and cerebellum
+the presence of foci of demyelination in the brain stem
+
+Name a drug for the treatment of severe exacerbation of multiple sclerosis? 
+ solumedrol
+immunomodulators
+dexamethasone
+prednisolone
+
+Specify a hereditary disease affecting the neuromuscular system 
+ myopathy
+hepato-cerebral dystrophy
+Pierre Marie's ataxia
+Friedreich's ataxia
+
+Indicate which clinical symptom is characteristic of juvenile Erb–Roth myopathy 
+ "wasp" waist, "duck" gait
+atrophy of the muscles of the distal limbs
+paresis of the extremities of the central type
+sensitivity disorders
+
+Indicate which symptom is characteristic of primary progressive muscular dystrophy (myopathy) 
+ decreased muscle tone
+fibrillary twitching
+presence of pathological reflexes
+sensitivity disorders
+
+The patient was diagnosed with primary progressive muscular dystrophy. Specify which symptom is characteristic of primary progressive muscular dystrophy (myopathy) 
+ decreased or absent tendon reflexes
+presence of pathological reflexes
+sensitivity disorders
+pain
+
+The doctor diagnosed primary progressive muscular dystrophy in the patient. Indicate which symptom is characteristic of primary progressive muscular dystrophy (myopathy) 
+ "Duck" gait
+Fibrillary twitching
+Pain
+Presence of pathological reflexes
+
+The patient was diagnosed with primary progressive muscular dystrophy. Specify a symptom characteristic of this pathology 
+ atrophy of the proximal muscle groups of the limbs
+presence of pathological reflexes
+sensitivity disorders
+pain
+
+A 30-year-old patient suffering from epileptic disease experienced three attacks of tonic-clonic convulsions within 1 hour; consciousness was not restored between attacks. blood pressure - 160/100 mm. Hg Art., heart rate - 100/min., breathing is noisy, with the participation of auxiliary muscles. Name the most likely condition in the patient? 
+ status epilepticus
+prolonged epileptic seizure
+series of epileptic seizures
+transient ischemic attacks
+
+The patient experiences attacks of short-term loss of consciousness (up to 15 s) several times a day, during which the head falls to the chest. This: 
+ complex typical absence seizure
+absence seizure
+simple atypical absence seizure
+simple typical absence seizure
+
+In patient K., 32 years old, a major convulsive attack is preceded by violent turns of the head and eyes to the left. Name the type of seizure: 
+ adversive
+absence seizure
+procursive
+Jacksonian
+
+A patient developed a full-blown epileptic seizure while drinking alcohol while awake. In neurological status - no abnormalities. MRI revealed no focal changes. What most likely developed in the patient? 
+ epileptic reaction
+epileptic disease
+epileptic syndrome
+alcohol poisoning
+
+The patient experienced a full-blown epileptic seizure as a result of the electric shock. In neurological status - no abnormalities. MRI shows no focality. What most likely developed in the patient? 
+ epileptic reaction
+epileptic disease
+epileptic syndrome
+alcohol poisoning
+
+A 23-year-old patient has a sudden loss of consciousness and tonic-clonic convulsions. The attack was preceded by twitching in the right limbs. Where is the focus of pathological excitation most likely located? 
+ frontal lobe
+left parietal lobe
+temporal lobe
+right parietal lobe
+
+The patient developed attacks of twitching of the right foot, spreading to the entire leg and lasting several minutes. The patient did not lose consciousness. On examination: paresis of the right foot after an attack, deep reflexes in the right leg are increased, Babinski's sign is on the right. Specify the type of attack: 
+ Jacksonian epilepsy
+absence seizure
+Kozhevnikov epilepsy
+myoclonus
+
+The patient developed attacks of numbness in her right foot, which spread to her entire right foot half of the body and last up to several minutes. Doesn't lose consciousness. Specify the type of attack: 
+ Jacksonian epilepsy
+absence seizure
+Kozhevnikov epilepsy
+myoclonus
+The doctor diagnosed the patient with “Epileptic disease with frequent generalized seizures.” How many seizures did the patient have that allowed us to determine this frequency? 
+ 4 or more per month
+4 or more per week
+4 or more per year
+4 or more per day
+
+The doctor diagnosed the patient with “Epileptic disease with rare generalized convulsive seizures.” How many seizures did the patient have that allowed us to determine this frequency? 
+ 1-2 per month
+1-2 per week
+1-2 per year
+1-2 per day
+
+The doctor diagnosed the patient with “Epileptic disease with an average frequency of generalized convulsive attacks.” How many seizures does a patient have that qualify as “average frequency”? 
+ 3 per month
+3 per week
+3 per year
+3 per day
+
+The doctor diagnosed the patient with “Epileptic disease with frequent partial seizures.” How many seizures did the patient have that allowed us to determine this frequency? 
+ 5 or more per day
+5 or more per week
+5 or more per year
+5 or more per month
+
+The doctor decided to prescribe combination therapy to a patient with asynchronous and atypical seizures, in whom monotherapy was ineffective. Which of the following combinations is undesirable? 
+ Carmabazepine/phenotoin
+Lamotrigine/topiramate
+Valproate/topiramate
+Valproate/lamotrigine
+
+The doctor decided to prescribe combination therapy to a patient with asynchronous and atypical seizures, in whom monotherapy was ineffective. Which of the following combinations is undesirable? 
+ Carmabazepine/lamotrigine
+Lamotrigine/topiramate
+Valproate/topiramate
+Valproate/lamotrigine
+
+Patient B has been suffering from epileptic disease for 10 years. Throughout the entire period, he took valproate, but due to the increase in attacks, the doctor adjusted the treatment and prescribed a new generation drug. Indicate which of the following drugs belongs to the new generation: 
+ Keppra
+Valprokom
+Carbamazepine
+Ethosuxemide
+
+Common cause of secondary trigeminal neuralgia? 
+ sinusitis
+multiple sclerosis
+tumors
+frontal sinusitis
+
+The appearance of pain along the front surface of the thigh when bending the leg at the knee joint, in a patient lying on his stomach, is this? 
+ Matskevich symptom
+Sicard's sign
+Waserman's sign
+Neri's symptom
+
+The appearance of pain along the front surface of the thigh when bending the leg at the hip joint, in a patient lying on his stomach, is this? 
+ Waserman's sign
+Neri's symptom
+Matskevich symptom
+Sicard's sign
+
+The appearance of pain in the lower back when coughing or sneezing is this? 
+ Dejerine's symptom
+Sicard's sign
+Waserman's sign
+Neri's symptom
+
+The appearance of pain in the lower back when tilting the head forward is -? 
+ Neri's symptom
+Dejerine's symptom
+Sicard's sign
+Waserman's sign
+
+With compression of the L3-L4 roots, will the tension symptom be the most pronounced? 
+ Wasserman's sign
+Bonnet-Bobrovnikov symptom
+Fenz's sign
+Lasègue's symptom
+
+What is the drug of choice for trigeminal neuralgia? 
+ carbamazepine
+pentalgin
+suprastin
+baralgin
+
+What are the contraindications to manual therapy? 
+ Spine compression
+Lumbago
+Sciatica
+Lumbodynia
+
+What are the contraindications for skeletal traction? 
+ Presence of a sequestered hernia
+Severe pain syndrome
+Loss of Achilles reflex
+Loss of knee reflex
+
+Indicate, when which nerve is damaged, deviation of the lower jaw to the side is observed? 
+ V pair
+VIpair
+VII pair
+IX pair
+
+The doctor revealed that the patient had a peripheral sensitivity disorder on the face. Indicate which structure is damaged when this sensitivity disorder occurs? 
+ ophthalmic branch of the trigeminal nerve
+nucleus of the spinal tract of the trigeminal nerve
+inferior part of the postcentral gyrus
+thalamo-cortical pathways
+
+The patient was diagnosed with a peripheral sensitivity disorder on the face. Indicate which structure is damaged when this sensitivity disorder occurs? 
+ maxillary branch of the trigeminal nerve
+nucleus of the spinal tract of the trigeminal nerve
+inferior part of the postcentral gyrus
+internal capsule
+
+The child has a peripheral sensitivity disorder on the face. Indicate which structure is damaged when this sensitivity disorder occurs? 
+ mandibular branch of the trigeminal nerve
+nucleus of the spinal tract of the trigeminal nerve
+inferior part of the postcentral gyrus
+thalamo-cortical pathways
+
+What are the symptoms of stage II radiographic osteochondrosis? 
+ decreased intervertebral disc height
+presence of spondyloarthrosis
+decreased intervertebral disc height and endplate sclerosis
+scoliosis of the spine
+
+Which of the following drugs is used for dehydrating purposes? 
+ dexamethasone
+platiphylline
+chime
+dexalgin
+
+Which of the following drugs is a muscle relaxant? 
+ mydocalm
+platiphylline
+baralgin
+spasmalgon
+
+Specify a common cause of pain at the lumbar level. 
+ osteochondrosis
+tumors
+multiple myeloma
+injuries
+
+To reduce the progression of degenerative changes in intervertebral discs, is it necessary to use? 
+ Chondroprotectors
+Biostimulants
+B vitamins
+Dehydrating
+
+The patient complains of attacks of pain in the right side of the face. The pain occurs suddenly and is paroxysmal in nature, the attack lasts 10-12 seconds. Pain occurs during talking, chewing, and swallowing. Between attacks there is pain on palpation of the infraorbital point on the right. What's affected? 
+ II branch of the trigeminal nerve on the right
+I branch of the trigeminal nerve on the left
+II branch of the trigeminal nerve on the right
+I branch of the trigeminal nerve on the left
+
+Which of the following drugs is a chondroprotector? 
+ teraflex
+platiphylline
+baralgin
+spasmalgon
+
+In what dose is benzylpenicillin prescribed as etiotropic therapy in the treatment of purulent meningitis? 
+ 300 thousand units per kg of patient weight
+500 thousand units per kg of patient weight
+100 thousand units per kg of patient weight
+1000 thousand units per kg of patient weight
+
+Indicate the most typical course of tuberculous meningitis. 
+ subacute
+acute
+chronic
+recurrent
+
+Indicate which arachnoiditis causes sharp decline in vision 
+ opto-chiasmal
+pontocerebellar angle
+posterior cranial fossa
+basal
+
+Where are patients with meningococcal meningitis treated? 
+ in the infectious diseases department
+in the neurological department
+in the intensive care ward of the neurological department
+in the intensive care ward of the somatic department
+
+What meningitis is characterized by a decrease in glucose and chlorides in the cerebrospinal fluid? 
+ tuberculous
+syphilitic
+meningococcal
+pneumococcal
+
+Criteria for discontinuing antibiotics in the treatment of purulent meningitis? 
+ cytosis less than 100 cells, 75% lymphocytes
+cytosis less than 200 cells, 75% neutrophils
+cytosis less than 150 cells, 25% lymphocytes
+cytosis less than 10 cells, 50% neutrophils
+
+Treatment of purulent meningitis with an unknown pathogen begins with? 
+ penicillin
+ampioxa
+chloramphenicol
+gentamicin
+
+What are the characteristic changes in the cerebrospinal fluid during meningococcal meningitis? 
+ neutrophilic pleocytosis
+lymphocytic pleocytosis
+fibrin film formation
+xanthochrome liquor
+
+Most often, at the onset of secondary purulent meningitis, meningeal symptoms occur 
+ neck muscle stiffness
+zygomatic ankylosing spondylitis phenomenon
+Kernig's sign
+Brudzinski's sign, superior
+
+Frequent residual defects after tuberculous meningitis in children? 
+ oculomotor disorders
+deafness
+hemiparesis
+neuroendocrine disorders.
+
+What type of meningitis causes purulent changes in the cerebrospinal fluid? 
+ meningococcal
+flu-like
+herpetic
+syphilitic
+
+What meningitis causes serous changes in the cerebrospinal fluid? 
+ tuberculous
+streptococcal
+staphylococcal
+pneumococcal
+
+Which meningitis is bacterial in etiology? 
+ meningococcal epidemic meningitis
+enteroviral
+herpetic
+lymphocytic choriomeningitis
+
+Which meningitis is viral in etiology? 
+ herpetic meningitis
+meningococcal epidemic meningitis
+pneumococcal meningitis
+streptococcal meningitis
+
+In what parts of the nervous system do changes predominate in encephalitis lethargica? 
+ subcortical nuclei
+cortex
+inner capsule
+medulla
+
+Indicate what form of urination disorder can occur with transverse lesions of the spinal cord in the cervical region? 
+ Urinary retention
+Paradoxical urinary incontinence
+Hematuria
+True urinary incontinence
+
+The patient has central tetraparesis, tetraanesthesia, stool and urine retention. What is your diagnosis? 
+ Upper cervical myelitis
+Lower cervical myelitis
+Thoracic myelitis
+Meningoencephalitis
+
+At what localization of the inflammatory process in the spinal cord does mixed tetraparesis develop (spastic in the legs, flaccid in the arms), urinary and fecal retention? 
+ cervical thickening
+thoracic region
+lumbar enlargement
+cone medullaris
+
+At what localization of the inflammatory process in the spinal cord are spastic tetraparesis, tetraanesthesia, urinary and fecal retention possible? 
+ cervical region
+thoracic region
+lumbar enlargemente
+cone medularis
+
+Which of the following diseases should be differentiated? diagnosis of myelitis affecting the thoracic spinal cord? 
+Strumpel's spastic paraplegia
+Friedreich's ataxia
+Charcot-Marie neural amyotrophy
+Erb's myopathy
+
+The middle layer of the spinal cord is called? 
+arachnoid
+soft
+vascular
+hard
+
+Where is cerebrospinal fluid produced? 
+In the ventricles of the brain
+In the subarachnoid space
+Between the layers of the dura mater
+In the sinuses of the brain
+
+

@@ -1,0 +1,893 @@
+General anesthesia (narcosis) is classified into:
+Inhalation and non-inhalation.
+Single-component and multi-component.
+Simple and complex.
+General and local.
+
+Indicate the patient's condition according to the ASA classification - I.
+Healthy patient.
+A patient with a mild systemic illness.
+A patient with a severe systemic illness.
+A patient with a severe systemic disease that poses a constant threat to life.
+
+Indicate the patient's condition according to the ASA classification II.
+Patient with a mild systemic illness.
+Healthy patient.
+A patient with a severe systemic illness.
+A patient with a severe systemic disease that poses a constant threat to life.
+
+Indicate the patient's condition according to the ASA classification III.
+A patient with a severe systemic illness.
+A patient with a mild systemic illness.
+Healthy patient.
+A patient with a severe systemic disease that poses a constant threat to life.
+
+What does the letter "E" indicate in the ASA classification?
+Indicates the urgency of the surgical intervention
+Indicates a concomitant disease
+Denotes premature birth
+Indicates the patient's age
+
+Indicate the traditional variants of classification of respiratory circuits.
+Open, closed, semi-open, or semi-closed circuit.
+Open, closed, semi-open, or reversible circuit.
+Direct, indirect, intermediate contour.
+Direct, indirect, intermediate contour.
+
+Indicate the physical properties of nitrous oxide (N2O, "laughing gas").
+Colorless, practically odorless, does not ignite or explode.
+Vapor-like liquid, has a pleasant odor.
+Colorless, has an ammonia smell, does not ignite or explode.
+Colorless, practically odorless, explosive.
+
+Influence of nitrous oxide on the respiratory system.
+Increases respiratory rate and decreases tidal volume.
+Suppresses respiratory rate and reduces tidal volume.
+Increases both respiratory rate and tidal volume.
+It does not affect the respiratory system.
+
+Effect of halothane on the respiratory system.
+leads to depression of the respiratory center in the medulla oblongata.
+leads to stimulation of the respiratory center in the medulla oblongata.
+suppresses respiratory rate and increases respiratory volume.
+suppresses respiratory rate and reduces respiratory volume.
+
+Indicate the contraindications for the use of halothane.
+in liver pathology.
+in increased intracranial pressure.
+in bronchospasm.
+in asthma.
+
+Effects of barbiturates on the cardiovascular system.
+cause decreased blood pressure and increased heart rate.
+cause increased blood pressure and increased heart rate.
+cause a decrease in blood pressure and a decrease in heart rate.
+do not affect the cardiovascular system.
+
+Diazepam is used for the purpose of...
+sedation or induction.
+induction of anesthesia.
+relaxation.
+potentiating anesthesia.
+
+Indicate the agonist-antagonist of opioids.
+Nalorphine.
+Chlorpromazine.
+Atropine.
+Morphine.
+
+Opioids (especially fentanyl, sufentanil, and alfentanil) primarily negatively affect which system in the body?
+Respiratory system.
+Cardiovascular system.
+DIC.
+CNS.
+
+Indicate the mechanism of action of ketamine.
+Blockade of the polysynaptic reflexes of the spinal cord and suppression of the effects of stimulating neurotransmitters.
+Stimulates the polysynaptic reflexes of the spinal cord and suppresses the effects of stimulating neurotransmitters.
+Blockade of the polysynaptic reflexes of the spinal cord and excitation of neurotransmitters.
+Binds to spinal cord proteins and suppresses the effects of stimulating neurotransmitters.
+
+Endorphins, enkephalins, and dynorphins are...
+Endogenous peptides.
+Morphine agonists.
+α-receptor agonists.
+Antagonists of endogenous peptides.
+
+Indicate the effects of opioids on the respiratory system (especially fentanyl, sufentanil, and alfentanil).
+Can cause chest rigidity.
+Can cause chest atony.
+Can cause an increase in respiratory rate.
+Can cause tissue hypoxia.
+
+Indicate the effect of opioids on the gastrointestinal tract.
+Depresses peristalsis.
+Increases peristalsis.
+Relaxation of the bile ducts.
+Atony of the bile ducts.
+
+Stress during surgery increases the secretion of several hormones, including:
+Catecholamines, cortisol, and antidiuretic hormone.
+Dexamethasone, prednisolone, and ACTH.
+Adrenaline, renin, and angiotensin.
+adrenaline, dexamethasone, and noradrenaline.
+
+The effect of ketamine on the cardiovascular system:
+increases blood pressure, heart rate, and cardiac output.
+lowers blood pressure and increases heart rate.
+causes a decrease in blood pressure and a decrease in heart rate.
+it does not affect the cardiovascular system.
+
+Droperidol's mechanism of action:
+Dopamine receptor antagonist.
+Antagonist of GABAergic receptors.
+Antagonist of benzodiazepine receptors.
+Stimulates α-adrenoreceptors.
+
+Effects of droperidol on the respiratory system:
+It does not affect the respiratory system.
+Increases respiratory rate and decreases tidal volume.
+Suppresses respiratory rate and reduces tidal volume.
+Increases tidal volume and respiratory rate.
+
+Muscle relaxants are used for the purpose of...
+Skeletal muscle relaxation.
+Induction.
+Premedication.
+Suppressing breathing.
+
+By mechanism of action, muscle relaxants are divided into two classes:
+Depolarizing and non-depolarizing.
+Potentiating and non-potentiating.
+Central and peripheral.
+Short-acting and long-acting.
+
+Non-depolarizing muscle relaxants do not include:
+Succinylcholine.
+Tubocurarine.
+Metocurine.
+Pancuronium.
+
+Depolarizing muscle relaxants include:
+Succinylcholine.
+Tubocurarine.
+Metocurine.
+Pancuronium.
+
+In adults, the dose of succinylcholine required for tracheal intubation is -
+1-1.5 mg/kg intravenously.
+10 mg/kg intravenously.
+1-1.5 mg/kg intramuscularly.
+10 mg/kg intramuscularly.
+
+Which muscle relaxant is associated with malignant hyperthermia - a hypermetabolic disorder of skeletal muscles?
+Succinylcholine.
+Tubocurarine.
+Metocurine.
+Pancuronium.
+
+Local anesthetics are classified into two groups. Indicate the correct answer.
+Esters (benzocaine, tetracaine, procaine) and substituted amides (lidocaine, trimecaine, bupivacaine).
+Infiltrative (procaine) and conductive (bupivacaine).
+Topical (cocaine, tetracaine, benzocaine, pyromecaine) and terminal (lidocaine, trimecaine).
+Blocking non-myelinated C and myelinated Aδ and Aβ fibers.
+
+Indicate the anatomical location of the epidural space.
+It lies between the ligamentum flavum and the dura mater.
+It lies between the spinous processes of vertebrae.
+It lies between the supraspinous ligament and the dura mater.
+It lies between the anterior longitudinal ligaments.
+
+What needles are used for epidural anesthesia?
+Tuohy needle.
+Quincke-Babcock needle.
+Pitkin needle.
+Bier needle.
+
+A relative contraindication to spinal anesthesia is...
+Peripheral neuropathy.
+Pronounced hypovolemia.
+Coagulopathy.
+Increased intracranial pressure.
+
+Indicate the puncture site for spinal anesthesia.
+Between the spinous processes LIV-LV
+Between the spinous processes LI-LII
+Between the spinous processes ThII-LV
+Between the spinous processes ThXII-LI
+
+What is included in neuroleptanalgesia?
+Fentanyl and droperidol.
+Morphine and nitrous oxide.
+Fentanyl and sibazone.
+Ketamine and droperidol.
+
+Which medications belong to the amide-type local anesthetics?
+Prilocaine, lidocaine, bupivacaine.
+Prilocaine, novocaine, bupivacaine.
+Novocaine, lidocaine, bupivacaine.
+Prilocaine, lidocaine, novocaine.
+
+Who first described spinal anesthesia?
+August Bier in 1899.
+Quincke-Bebcock in 1916.
+Whitacre in 1888.
+Tuohy in 1899.
+
+The relative density of cerebrospinal fluid at a temperature of 37°C usually fluctuates within...
+1.003 to 1.008.
+1,300 to 1,500.
+1.0052 to 1.0066.
+1.0203 to 1.0208.
+
+What is the primary physiological mechanism responsible for neurogenic shock?
+Loss of sympathetic nervous system control leading to vasodilation
+Increased fluid loss from blood vessels
+Widespread infection causing capillary leakage
+Cardiac dysfunction leading to decreased cardiac output
+
+Which of the following is an appropriate initial treatment for neurogenic shock?
+IV fluids and vasopressors
+Immediate antibiotic therapy
+Administration of antihistamines
+Immediate blood transfusion
+
+Which of the following symptoms differentiates neurogenic shock from other types of shock?
+Warm, dry skin and bradycardia
+Cold, clammy skin and tachycardia
+Increased respiratory rate with fever
+Pulmonary congestion and chest pain
+
+Which blood pressure reading is considered hypertensive crisis in an emergency setting?
+≥180/120 mmHg
+≥140/90 mmHg
+≥160/100 mmHg
+≥120/80 mmHg
+
+Which of the following symptoms may indicate hypertensive emergency?
+Severe headache, blurred vision, and chest pain
+Mild dizziness and occasional palpitations
+Increased appetite and dry mouth
+Nausea and frequent urination
+
+Which of the following is the first-line IV drug for hypertensive emergency?
+Labetalol
+Atropine
+Furosemide
+Diphenhydramine
+
+Which organ systems are most at risk of damage in hypertensive emergency?
+Brain, heart, kidneys, and eyes
+Liver, pancreas, intestines, and skin
+Stomach, bladder, bones, and muscles
+Ears, nose, throat, and joints
+
+What is the recommended approach to lowering blood pressure in a hypertensive emergency?
+Gradual reduction over 24–48 hours to prevent ischemic damage
+Rapid reduction to normal levels within minutes
+Immediate administration of diuretics only
+Complete cessation of antihypertensive medications
+
+Which of the following defines a hypertensive emergency?
+Severe hypertension with acute target organ damage
+High blood pressure without symptoms
+Hypertension managed with oral medications
+Low blood pressure with tachycardia
+
+Which symptom is most commonly associated with malignant hypertension?
+Papilledema
+Increased urine output
+Dry mouth
+Muscle cramps
+
+Which lifestyle modification is recommended to help manage arterial hypertension?
+Reducing salt intake and increasing physical activity
+Eating a high-fat diet
+Drinking more caffeinated beverages
+Avoiding all medications
+
+Which of the following is a secondary cause of arterial hypertension?
+Chronic kidney disease
+Anxiety
+Dehydration
+Low cholesterol levels
+
+Which diagnostic test is commonly used to assess target organ damage in hypertensive patients?
+Electrocardiogram
+Pulmonary function test
+Liver biopsy
+Spirometry
+
+What is the key difference between hypertensive urgency and hypertensive emergency?
+Hypertensive emergency involves target organ damage, while hypertensive urgency does not
+Hypertensive urgency requires IV medications, while hypertensive emergency does not
+Hypertensive emergency occurs at lower blood pressure levels than hypertensive urgency
+Hypertensive urgency is more life-threatening than hypertensive emergency
+
+Which of the following is a common sign of target organ damage in hypertensive emergency?
+Acute kidney injury with elevated creatinine
+Mild dizziness with normal kidney function
+Fatigue with no ECG changes
+Increased appetite and dry skin
+
+Which of the following IV medications is commonly used for the management of hypertensive emergency?
+Nifidipine
+Hydrochlorothiazide
+Lisinopril
+Metformin
+
+In a hypertensive emergency, blood pressure should be reduced gradually to prevent which complication?
+Cerebral ischemia or stroke
+Hypertension rebound
+Chronic kidney disease
+Hypotension-induced tachycardia
+
+What is the initial target for blood pressure reduction in a hypertensive emergency within the first hour?
+Reduce MAP by no more than 25%
+Reduce systolic BP to less than 100 mmHg immediately
+Lower diastolic BP to less than 50 mmHg as soon as possible
+Normalize blood pressure completely within 30 minutes
+
+Which of the following clinical conditions is NOT considered a hypertensive emergency?
+Chronic stable hypertension
+Hypertensive encephalopathy
+Acute aortic dissection
+Eclampsia
+
+Which end-organ is commonly affected in hypertensive emergency leading to neurological symptoms?
+Brain
+Liver
+Spleen
+Large intestines
+
+Which condition is associated with acute, severe hypertension and requires rapid blood pressure reduction?
+Acute aortic dissection
+Stable angina
+Chronic venous insufficiency
+Non-emergent hyperlipidemia
+
+Which of the following is a contraindication to using beta-blockers in hypertensive crisis?
+Acute heart failure with reduced ejection fraction
+Myocardial infarction
+Hyperthyroidism-related hypertension
+Postoperative hypertension
+
+Which of the following best differentiates heat stroke from heat exhaustion?
+Altered mental status and core temperature >40°C (104°F)
+Profuse sweating with normal mental status
+Low blood pressure with bradycardia and core temperature < 40°C (104°F)
+Shivering with normal thermoregulation
+
+Which of the following arrhythmias is most commonly associated with sudden cardiac arrest?
+Ventricular fibrillation
+Atrial fibrillation
+Sinus tachycardia
+First-degree AV block
+
+Which drug is the first-line treatment for stable narrow-complex supraventricular tachycardia?
+Adenosine
+Amiodarone
+Atropine
+Epinephrine
+
+Which ECG finding is characteristic of atrial fibrillation?
+Irregularly irregular rhythm with no distinct P waves
+Sawtooth-shaped flutter waves
+Wide QRS complexes with regular rhythm
+ST-segment elevation
+
+What is the most effective intervention for an unstable patient with ventricular tachycardia?
+Synchronized cardioversion
+IV beta-blockers
+Oral calcium channel blockers
+Carotid sinus massage
+
+Which of the following ECG changes is seen in torsades de pointes?
+Polymorphic ventricular tachycardia with a twisting QRS pattern
+Narrow QRS complexes with regular rhythm
+PR interval prolongation without QRS dropout
+ST-segment depression
+
+Which electrolyte abnormality is most commonly associated with torsades de pointes?
+Hypokalemia
+Hypercalcemia
+Hypernatremia
+Hypoglycemia
+
+Which of the following arrhythmias requires immediate defibrillation?
+Pulseless ventricular tachycardia
+Atrial flutter
+First-degree AV block
+Sinus bradycardia
+
+Which drug is the first-line treatment for symptomatic bradycardia?
+Atropine
+Amiodarone
+Digoxin
+Epinephrine
+
+Which arrhythmia is commonly associated with Wolff-Parkinson-White (WPW) syndrome?
+Supraventricular tachycardia
+Atrial fibrillation with narrow QRS
+Ventricular fibrillation
+Mobitz type II AV block
+
+What is the primary management of unstable atrial fibrillation with rapid ventricular response?
+Immediate synchronized cardioversion
+Beta-blockers for rate control
+IV calcium channel blockers for rate control
+Anticoagulation therapy only
+
+What is the correct compression-to-ventilation ratio for adult CPR when performed by a single rescuer?
+30:2
+15:2
+20:5
+10:1
+
+Which of the following is the recommended depth of chest compressions in adult CPR?
+At least 5 cm (2 inches)
+At least 3 cm (1 inch)
+At least 7 cm (3 inches)
+No deeper than 4 cm (1.5 inches)
+
+What is the first step in initiating CPR if an adult is found unresponsive and not breathing normally?
+Check for responsiveness and call for help
+Start chest compressions immediately
+Give two rescue breaths first
+Place the person in a recovery position
+
+Which of the following is the correct rate of chest compressions in adult CPR?
+100–120 compressions per minute
+80–100 compressions per minute
+60–100 compressions per minute
+120–140 compressions per minute
+
+What is the best way to confirm effective ventilation during rescue breaths in CPR?
+Visible chest rise
+Air escaping from the victim’s mouth
+Listening for air movement
+Checking the victim's pulse
+
+Which of the following rhythms is shockable in cardiac arrest?
+Ventricular fibrillation
+Asystole
+Pulseless electrical activity
+Sinus bradycardia
+
+What is the recommended action if an automated external defibrillator (AED) advises "no shock"?
+Continue CPR immediately
+Deliver a shock anyway
+Stop CPR and check for a pulse
+Wait for medical professionals to arrive
+
+Which artery is typically checked for a pulse in an unresponsive adult before starting CPR?
+Carotid artery
+Radial artery
+Brachial artery
+Temporal artery
+
+How often should rescuers switch roles during two-person CPR to prevent fatigue?
+Every 2 minutes
+Every 5 minutes
+After every 10 compressions
+Whenever the rescuer feels tired
+
+Which of the following is the most critical factor for survival in cardiac arrest?
+Early defibrillation
+Early administration of IV medications
+Early oxygen therapy
+Immediate advanced airway placement
+
+According to the latest ACLS guidelines, what is the recommended dose of epinephrine for cardiac arrest?
+1 mg IV/IO every 3–5 minutes
+0.5 mg IV every 2 minutes
+5 mg IV push once
+Continuous infusion at 1 mcg/kg/min
+
+What is the recommended dose of amiodarone for refractory ventricular fibrillation or pulseless ventricular tachycardia during ACLS?
+300 mg IV bolus, followed by 150 mg if needed
+150 mg IV bolus, followed by 300 mg
+100 mg IV push every 3 minutes
+Continuous infusion of 1 mg/min
+
+Which of the following best defines the "C-A-B" sequence in Basic Life Support (BLS) guidelines?
+Compressions first, then Airway, and Breathing
+Check airway first, then Apply AED, and Breathing
+Call for help first, then Assess, and Begin compressions
+Confirm responsiveness first, then Apply AED, and Begin compressions
+
+What is the recommended intervention for a patient in cardiac arrest with suspected opioid overdose?
+Perform high-quality CPR and administer naloxone if spontaneous breathing is absent
+Give naloxone first, then start chest compressions if needed
+Prioritize airway management over compressions
+Start bag-mask ventilation immediately before compressions
+
+Which of the following is the most appropriate action when a patient in cardiac arrest has a shockable rhythm but a manual defibrillator is not immediately available?
+Continue high-quality chest compressions until a defibrillator arrives
+Administer epinephrine immediately before resuming compressions
+Perform synchronized cardioversion instead of defibrillation
+Stop CPR and wait for the defibrillator to arrive before continuing
+
+Which of the following is the most common symptom of an acute myocardial infarction (MI)?
+Chest pain or pressure lasting more than 20 minutes
+Sharp, localized chest pain that worsens with inspiration
+Sudden onset of severe abdominal pain
+Persistent cough with hemoptysis
+
+Which ECG finding is most characteristic of an ST-elevation myocardial infarction (STEMI)?
+ST-segment elevation in two or more contiguous leads
+Widespread ST-segment depression
+Prolonged PR interval
+Tall peaked T waves in all leads
+
+Which cardiac biomarker is most specific for myocardial infarction?
+Troponin I or T
+Creatine kinase-MB
+Myoglobin
+Lactate dehydrogenase
+
+Which of the following is the first-line antiplatelet therapy in acute MI?
+Aspirin
+Warfarin
+Heparin
+Digoxin
+
+Which of the following is the preferred reperfusion strategy for STEMI if available within 90 minutes?
+Percutaneous coronary intervention
+Fibrinolytic therapy
+Coronary artery bypass grafting
+Administration of IV nitrates alone
+
+Which of the following is a contraindication to fibrinolytic therapy in STEMI?
+Recent hemorrhagic stroke
+Diabetes mellitus
+Age over 70 years
+History of smoking
+
+Which medication is commonly used to reduce myocardial oxygen demand in acute MI?
+Metoprolol
+Dobutamine
+Epinephrine
+Albuterol
+
+Which complication is most commonly associated with an inferior wall myocardial infarction?
+Bradycardia and heart block
+Left ventricular failure
+Ventricular septal rupture
+Severe hypertension
+
+Which of the following is the most appropriate next step in the management of a patient with suspected acute MI and ongoing ischemic chest pain despite medical therapy?
+Emergent coronary angiography
+Immediate stress testing
+IV steroids and antihistamines
+Discharge home with pain medications
+
+Which laboratory finding is strongly suggestive of cyanide toxicity?
+Severe lactic acidosis with an elevated anion gap
+Hyperkalemia with peaked T waves
+Hypoglycemia with metabolic alkalosis
+Decreased hematocrit with thrombocytopenia
+
+Which of the following is a defining feature of acute respiratory failure?
+Inability to maintain adequate oxygenation or ventilation
+Gradual onset of mild dyspnea over months
+Normal ABG levels despite respiratory distress
+Complete resolution without medical intervention
+
+Which arterial blood gas (ABG) finding is consistent with hypoxemic respiratory failure?
+PaO₂ <60 mmHg with normal or low PaCO₂
+PaCO₂ >50 mmHg with normal oxygen levels
+pH >7.45 with normal PaO₂
+Normal oxygenation with metabolic acidosis
+
+Which of the following conditions is a common cause of hypercapnic respiratory failure?
+Chronic obstructive pulmonary disease
+Pulmonary embolism
+Pneumothorax
+Acute pulmonary edema
+
+Which of the following is the primary treatment for a patient with acute hypoxemic respiratory failure due to pneumonia?
+Supplemental oxygen and appropriate antibiotics
+IV diuretics and fluid restriction
+Immediate endotracheal intubation in all cases
+Beta-blockers and vasopressors
+
+Which of the following is a common early sign of acute respiratory failure?
+Tachypnea and altered mental status
+Hypotension and bradycardia
+Cyanosis with SpO₂ >98%
+Peripheral edema and ascites
+
+Which ventilation strategy is recommended for a patient with acute respiratory distress syndrome (ARDS)?
+Low tidal volume ventilation (4–6 mL/kg of ideal body weight)
+High tidal volume ventilation (10–12 mL/kg of actual body weight)
+No mechanical ventilation, only supplemental oxygen
+Continuous use of bronchodilators without ventilatory support
+
+Which of the following is a key feature of ventilatory failure?
+PaCO₂ >50 mmHg with respiratory acidosis
+PaO₂ >100 mmHg on room air
+pH >7.45 with low bicarbonate levels
+Normal ABG values with tachycardia
+
+Which of the following non-invasive ventilation (NIV) methods is commonly used in patients with COPD exacerbation leading to acute respiratory failure?
+Bilevel positive airway pressure
+Nasal cannula at 2 L/min
+High-flow nasal cannula only
+Invasive mechanical ventilation as the first choice
+
+Which condition is most likely to cause type 1 (hypoxemic) respiratory failure?
+Pulmonary embolism
+Myasthenia gravis
+Opioid overdose
+Guillain-Barré syndrome
+
+Which of the following is the most immediate intervention for a patient in respiratory failure due to opioid overdose?
+Naloxone administration
+Beta-blockers to reduce respiratory distress
+Immediate tracheostomy placement
+Long-term corticosteroid therapy
+
+Which of the following is the first-line treatment for an acute asthma exacerbation?
+Short-acting beta-agonists like albuterol/salbutamol
+Long-acting beta-agonists like salmeterol
+Leukotriene receptor antagonists like montelukast
+Antihistamines like diphenhydramine
+
+Which of the following is a classic sign of a severe asthma attack?
+Use of accessory muscles and silent chest
+Slow respiratory rate and bradycardia
+Hypertension and loud wheezing
+Productive cough with fever
+
+Which of the following arterial blood gas (ABG) findings suggests impending respiratory failure in severe asthma?
+Normal or rising PaCO₂ with worsening acidosis
+Low PaCO₂ with respiratory alkalosis
+High PaO₂ and normal pH
+Increased bicarbonate HCO₃⁻
+
+Which medication is added in severe asthma exacerbations when beta-agonists alone are insufficient?
+Ipratropium bromide
+Oral antihistamines
+Antibiotics
+Leukotriene inhibitors
+
+Which of the following is the most life-threatening complication of severe asthma?
+Status asthmaticus
+Pneumonia
+Chronic bronchitis
+Sinusitis
+
+Which of the following is the best method to assess asthma severity in the emergency department?
+Peak expiratory flow rate or FEV1
+Chest X-ray
+Sputum culture
+D-dimer test
+
+Which of the following features is characteristic of status asthmaticus?
+Severe bronchospasm unresponsive to initial therapy
+Rapid response to inhaled bronchodilators
+Mild dyspnea with normal oxygen saturation
+Sudden improvement with antihistamines
+
+Which of the following is a contraindication to non-invasive ventilation (NIV) in an asthmatic patient?
+Severe agitation or altered mental status
+Hypoxemia that improves with oxygen
+Mild wheezing and normal ABG
+Presence of mild cough and expectoration
+
+Which corticosteroid regimen is most appropriate for a patient with a moderate asthma exacerbation in the emergency department?
+Prednisone 40–60 mg orally for 5–7 days
+Beclomethasone inhaler once daily
+Intramuscular dexamethasone once monthly
+Discontinuation of all steroids to prevent dependence
+
+Which of the following is an early sign of worsening asthma despite treatment?
+Decreasing peak expiratory flow rate
+Normal breath sounds with no wheezing
+Increased oxygen saturation without therapy
+Bradycardia and respiratory depression
+
+What is the definition of status asthmaticus?
+A severe, prolonged asthma attack that is unresponsive to initial treatment
+A mild asthma exacerbation that resolves with a single nebulizer treatment
+An asthma episode that occurs only at night
+A self-limiting asthma attack that improves with rest
+
+Which of the following is a hallmark sign of impending respiratory failure in status asthmaticus?
+Silent chest with minimal air entry
+Loud wheezing and productive cough
+Mild tachypnea with normal mental status
+Sudden decrease in heart rate
+
+Which of the following medications is the first-line treatment for status asthmaticus?
+Nebulized short-acting beta-agonists like salbutamol
+Oral antihistamines
+IV antibiotics
+Long-acting beta-agonists
+
+Which of the following arterial blood gas (ABG) findings suggests worsening status asthmaticus?
+Rising PaCO₂ with respiratory acidosis
+Low PaCO₂ with respiratory alkalosis
+Normal pH with mild metabolic acidosis
+High HCO₃⁻ indicating compensation
+
+Which adjunct therapy can be used in severe status asthmaticus that is not responding to standard treatment?
+IV magnesium sulfate
+Oral leukotriene receptor antagonists
+Antihistamines like diphenhydramine
+Propranolol
+
+Which of the following is a sign that immediate endotracheal intubation may be required in a patient with status asthmaticus?
+Altered mental status and respiratory fatigue
+Presence of loud wheezing and productive cough
+Mild shortness of breath with normal speech
+Increased heart rate but normal ABG
+
+Which systemic corticosteroid treatment is recommended for status asthmaticus?
+IV methylprednisolone 40–60 mg every 6 hours
+Oral prednisone 5 mg daily
+Beclomethasone inhaler alone
+Hydrocortisone topical cream
+
+Which of the following is the most appropriate next step if a patient with status asthmaticus does not respond to initial bronchodilator therapy?
+Administer IV magnesium sulfate and consider mechanical ventilation
+Discharge the patient with an inhaler and follow-up in a week
+Give an antibiotic to treat an underlying infection
+Switch to a long-acting beta-agonist
+
+Which of the following is the best way to monitor the severity of status asthmaticus in the emergency department?
+Serial peak expiratory flow rate measurements
+Chest X-ray in all cases
+Sputum culture and blood work
+Routine ECG for all patients
+
+Which of the following is the classic triad of opioid overdose?
+Respiratory depression, pinpoint pupils, altered mental status
+Hypertension, tachycardia, and agitation
+Fever, dilated pupils, and hallucinations
+Hyperreflexia, tremors, and sweating
+
+What is the first-line antidote for opioid poisoning?
+Naloxone
+Flumazenil
+Activated charcoal
+Atropine
+
+Which of the following is the most immediate life-threatening complication of opioid overdose?
+Respiratory depression
+Liver failure
+Seizures
+Hyperthermia
+
+Which route of administration is preferred for naloxone in a patient with respiratory arrest due to opioid overdose?
+Intravenous
+Oral
+Subcutaneous
+Intramuscular only
+
+Which opioid has the longest duration of action, making naloxone reversal potentially short-lived?
+Methadone
+Fentanyl
+Heroin
+Morphine
+
+What is the primary toxic component of the Death Cap mushroom (Amanita phalloides)?
+Amatoxins
+Muscarine
+Psilocybin
+Bufotenin
+
+Which organ is most severely affected by Amanita phalloides poisoning?
+Liver
+Lungs
+Kidneys
+Heart
+
+What is the initial phase of symptoms in Death Cap mushroom poisoning?
+Gastrointestinal distress (vomiting, diarrhea, abdominal pain)
+Hallucinations and euphoria
+Muscle spasms and respiratory depression
+Immediate cardiac arrhythmias
+
+Which of the following is the most effective treatment strategy for severe Amanita phalloides poisoning?
+Supportive care, IV fluids, and N-acetylcysteine for liver protection
+Immediate hemodialysis and benzodiazepines
+Activated charcoal only, with no further intervention
+High-dose corticosteroids and beta-blockers
+
+Which laboratory findings is most commonly associated with severe Amanita phalloides toxicity?
+Elevated liver enzymes (AST, ALT) with coagulopathy
+Hyperkalemia and metabolic alkalosis
+Marked leukocytosis with left shift
+Increased creatinine with metabolic acidosis
+
+Which of the following is the most life-threatening complication of acute alcohol poisoning?
+Hypoventilation
+Hypoglycemia
+Hypertension
+Hyperreflexia
+
+Which laboratory finding is commonly seen in ethanol intoxication?
+Elevated blood ethanol level with metabolic acidosis
+Severe hyperkalemia with alkalosis
+Increased anion gap metabolic alkalosis
+Hypocalcemia with prolonged QT interval
+
+Which of the following is the best initial management step for a patient with acute ethanol poisoning and respiratory depression?
+Airway protection and supportive care
+Immediate hemodialysis
+Administration of naloxone
+IV administration of benzodiazepines
+
+Which symptom differentiates methanol or ethylene glycol poisoning from ethanol intoxication?
+Anion gap metabolic acidosis with visual disturbances
+Hypoglycemia and hypotension
+Euphoria and tachycardia
+Increased reflexes and muscle rigidity
+
+Which is the antidote for methanol or ethylene glycol poisoning?
+Fomepizole
+Atropine
+Activated charcoal
+Flumazenil
+
+Which is the most reliable method for diagnosing carbon monoxide (CO) poisoning?
+Carboxyhemoglobin levels on arterial or venous blood gas
+Pulse oximetry reading
+Chest X-ray findings
+Blood lactate levels
+
+Which is the primary mechanism of toxicity in CO poisoning?
+CO binds to hemoglobin with high affinity, reducing oxygen delivery to tissues
+CO acts as a direct myocardial depressant
+CO triggers excessive histamine release, leading to anaphylaxis
+CO causes immediate destruction of red blood cells
+
+Which is the first-line treatment for CO poisoning?
+100% high-flow oxygen therapy
+IV sodium bicarbonate
+Hemodialysis
+Activated charcoal
+
+Which is an indication for hyperbaric oxygen therapy (HBOT) in CO poisoning?
+Carboxyhemoglobin level >25% or presence of neurologic symptoms
+Mild headache and nausea with carboxyhemoglobin <5%
+No symptoms but recent exposure to CO
+Stable patient with normal SpO₂ on pulse oximetry
+
+Which is a common delayed complication of CO poisoning?
+Neuropsychiatric symptoms
+Chronic kidney disease
+Pulmonary fibrosis
+Permanent hearing loss
+
+Which is the primary mechanism of cyanide toxicity?
+Inhibition of cytochrome c oxidase, leading to cellular hypoxia
+Competitive inhibition of hemoglobin binding sites
+Excessive stimulation of the autonomic nervous system
+Direct myocardial suppression
+
+Which clinical sign is most characteristic of acute cyanide poisoning?
+Rapid onset of altered mental status with bright red venous blood
+Bradycardia and pinpoint pupils
+Severe diarrhea and dehydration
+Hypotension with normal oxygen saturation on pulse oximetry
+
+Which is the most appropriate initial treatment for suspected cyanide poisoning?
+Administration of 100% oxygen and hydroxycobalamin
+Immediate hemodialysis
+Activated charcoal and gastric lavage
+IV calcium gluconate
+
+Which exposure scenario is most commonly associated with cyanide poisoning?
+Smoke inhalation from house fires
+Chronic exposure to lead-based paint
+Accidental ingestion of spoiled seafood
+Occupational exposure to organophosphate pesticides
+
+What is the primary mechanism of toxicity in organophosphate poisoning?
+Inhibition of acetylcholinesterase, leading to excessive acetylcholine accumulation
+Competitive inhibition of hemoglobin binding sites
+Direct damage to hepatocytes, causing liver failure
+Blockade of sodium channels, leading to cardiac arrest

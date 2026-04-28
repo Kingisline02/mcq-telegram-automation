@@ -1,0 +1,905 @@
+Which of the following describes the term bioavailability?
+Fraction of an administered dose that reaches the systemic circulation unchanged.
+Volume in which the drug distributes.
+Time taken for the plasma concentration to reduce by half.
+Rate at which a drug is eliminated.
+
+A drug that shows a steep dose–response curve near the EC50 has which property?
+Small change in dose produces large change in effect
+Large therapeutic window.
+Low intrinsic efficacy.
+Extremely slow onset of action.
+
+Which kinetic process is primarily responsible for first-pass metabolism?
+Hepatic metabolism after oral absorption.
+Renal tubular secretion.
+Pulmonary exhalation.
+Dermal absorption.
+
+The mechanism of action of beta-lactam antibiotics is:
+Inhibition of bacterial cell wall peptidoglycan cross-linking (PBPs).
+Inhibition of folate synthesis.
+Inhibition of 30S ribosomal subunit.
+Disruption of DNA gyrase.
+
+A partial agonist at a receptor has which characteristic compared with a full agonist?
+Lower maximal efficacy.
+Higher intrinsic efficacy.
+Always acts as antagonist in all tissues.
+Produces tachyphylaxis only.
+
+Which of the following is a classic muscarinic antagonist used to treat bradycardia?
+Atropine.
+Propranolol.
+Epinephrine.
+Neostigmine.
+
+The half-life of a drug is independent of dose when elimination follows:
+First-order kinetics.
+Zero-order kinetics.
+Saturable metabolism.
+Michaelis–Menten elimination.
+
+Which antibiotic is associated with ototoxicity and nephrotoxicity and works by inhibiting the 30S ribosomal subunit?
+Gentamicin.
+Vancomycin.
+Ciprofloxacin.
+Erythromycin.
+
+The mechanism of action of warfarin is:
+Inhibition of vitamin K epoxide reductase, reducing activation of vitamin K–dependent clotting factors.
+Direct thrombin inhibition.
+Platelet P2Y12 receptor antagonism.
+Activation of antithrombin III.
+
+Which class of antihypertensives acts by blocking L-type calcium channels in vascular smooth muscle and heart?
+Dihydropyridine and non-dihydropyridine calcium channel blockers.
+ACE inhibitors.
+Beta-blockers only.
+Thiazide diuretics.
+
+Which of the following is an example of a prodrug?
+Enalapril (converted to enalaprilat).
+Lisinopril (active as given).
+Atenolol.
+Metoprolol.
+
+An antagonist that can be overcome by increasing agonist concentration is called:
+Competitive reversible antagonist.
+Noncompetitive antagonist.
+Irreversible antagonist.
+Allosteric inhibitor only.
+
+Which enzyme is primarily responsible for acetaminophen conversion to its toxic metabolite NAPQI?
+CYP2E1.
+CYP3A4.
+Alcohol dehydrogenase.
+MAO-A.
+
+Which diuretic acts on the Na-K-2Cl transporter in the thick ascending limb of the loop of Henle?
+Furosemide.
+Hydrochlorothiazide.
+Spironolactone.
+Acetazolamide.
+
+The primary mechanism of action of clopidogrel is:
+Irreversible inhibition of the P2Y12 ADP receptor on platelets.
+Inhibition of cyclooxygenase in platelets.
+Direct thrombin inhibition.
+Activation of platelet cAMP.
+
+The term volume of distribution (Vd) refers to:
+Apparent volume in which the drug is distributed to produce the observed plasma concentration.
+The organ where drug concentrates.
+The amount of drug excreted unchanged.
+The urinary clearance.
+
+Which medication is a benzodiazepine antagonist used to reverse benzodiazepine overdose?
+Flumazenil.
+Naloxone.
+Physostigmine.
+Romazicon.
+
+Which antibiotic inhibits bacterial DNA gyrase (topoisomerase II) and topoisomerase IV?
+Ciprofloxacin.
+Amoxicillin.
+Gentamicin.
+Tetracycline.
+
+Mechanism of action of metformin is best described as:
+Reduction of hepatic gluconeogenesis and increased insulin sensitivity.
+Direct stimulation of insulin release from beta cells.
+Inhibition of renal glucose reabsorption.
+Activation of incretin receptors.
+
+Which drug class increases cyclic AMP in cardiac myocytes by inhibiting phosphodiesterase III and is used in heart failure?
+Milrinone.
+Digoxin.
+Carvedilol.
+Furosemide.
+
+A patient with slow acetylator phenotype would have increased risk of toxicity with which drug?
+Hydralazine or isoniazid.
+Propranolol.
+Ciprofloxacin.
+Metformin.
+
+The therapeutic effect of levodopa in Parkinson disease requires which coadministered drug to prevent peripheral conversion?
+Carbidopa.
+Entacapone.
+Selegiline.
+Benztropine.
+
+Which opioid is a partial agonist at mu receptors and can precipitate withdrawal in opioid-dependent patients?
+Buprenorphine.
+Morphine.
+Methadone.
+Fentanyl.
+
+Torsades de pointes is most likely associated with which class of drugs?
+Class III antiarrhythmics (and some antibiotics/antipsychotics that prolong QT).
+ACE inhibitors.
+Beta-lactam antibiotics.
+Beta-blockers.
+
+Which antihyperlipidemic drug class primarily reduces LDL by inhibiting HMG-CoA reductase?
+Statins.
+Bile acid sequestrants.
+Fibrates.
+Niacin.
+
+Which of the following drugs is contraindicated in pregnancy due to teratogenicity causing neural tube defects or craniofacial abnormalities?
+Isotretinoin.
+Penicillin.
+Insulin.
+Amoxicillin.
+
+The antidote for acetaminophen poisoning (if given timely) is:
+N-acetylcysteine.
+Atropine.
+Deferoxamine.
+Flumazenil.
+
+Which immunosuppressant inhibits calcineurin and reduces IL-2 transcription?
+Cyclosporine or tacrolimus (both are calcineurin inhibitors).
+Azathioprine.
+Sirolimus (mTOR inhibitor).
+Mycophenolate mofetil.
+
+A patient taking MAO inhibitors must avoid foods rich in tyramine to prevent:
+Hypertensive crisis.
+Neuroleptic malignant syndrome.
+Hypoglycemia.
+Serotonin syndrome.
+
+Which antihistamine is most sedating due to central H1 blockade?
+Diphenhydramine.
+Loratadine.
+Cetirizine.
+Fexofenadine.
+
+The mechanism of heparin involves potentiation of which endogenous anticoagulant?
+Antithrombin III.
+Protein C.
+Plasmin.
+Tissue factor pathway inhibitor.
+
+Which drug is a direct oral anticoagulant that directly inhibits factor Xa?
+Rivaroxaban.
+Warfarin.
+Heparin.
+Dabigatran.
+
+Which antiepileptic drug is associated with neural tube defects when used in pregnancy?
+Valproate (valproic acid).
+Levetiracetam.
+Gabapentin.
+Lamotrigine.
+
+The mechanism of action of proton pump inhibitors (e.g., omeprazole) is:
+Irreversible inhibition of H+/K+ ATPase in parietal cells.
+Blockade of H2 receptors.
+Neutralization of gastric acid.
+Activation of prostaglandin synthesis.
+
+Which adrenergic receptor subtype primarily mediates bronchial smooth muscle relaxation?
+Beta-2 receptors.
+Alpha-1 receptors.
+Beta-1 receptors.
+M2 muscarinic receptors.
+
+Which antibiotic class can cause cartilage damage in growing animals and is generally avoided in children?
+Fluoroquinolones.
+Macrolides.
+Penicillins.
+Sulfonamides.
+
+Which of these drugs is a long-acting insulin analog?
+Insulin glargine.
+Regular insulin.
+NPH insulin (intermediate-acting).
+Insulin lispro (short-acting).
+
+Which drug is used as an antidote for opioid overdose?
+Naloxone.
+Flumazenil.
+Atropine.
+Physostigmine.
+
+Which medication used for heart failure inhibits the Na+/K+ ATPase and increases intracellular calcium in cardiac myocytes?
+Digoxin.
+Dobutamine.
+Lisinopril.
+Spironolactone.
+
+Which of the following is a reversible cholinesterase inhibitor used in myasthenia gravis diagnosis and treatment?
+Neostigmine or pyridostigmine.
+Organophosphates.
+Atropine.
+Scopolamine.
+
+A medication that prolongs the QT interval increases risk of:
+Torsades de pointes (polymorphic ventricular tachycardia).
+Bradycardia only.
+Pulmonary embolism.
+Atrial fibrillation.
+
+Which antifungal inhibits ergosterol synthesis by inhibiting 14-alpha-demethylase?
+Fluconazole.
+Amphotericin B.
+Caspofungin.
+Terbinafine.
+
+Which of the following drugs is used to treat an acute gout flare by inhibiting microtubule polymerization in neutrophils?
+Colchicine.
+Allopurinol.
+Probenecid.
+Febuxostat.
+
+The main adverse effect of amphotericin B relates to:
+Nephrotoxicity.
+Hepatotoxicity.
+Ototoxicity.
+Pulmonary fibrosis.
+
+Which medication is a selective serotonin reuptake inhibitor (SSRI)?
+Fluoxetine.
+Amitriptyline.
+Phenelzine.
+Haloperidol.
+
+The mechanism of action of spironolactone involves antagonism at which receptor?
+Mineralocorticoid (aldosterone) receptor.
+Beta-1 adrenergic receptor.
+Alpha-1 adrenergic receptor.
+Angiotensin II receptor.
+
+Which drug class is the first-line therapy for type 2 diabetes and has cardiovascular benefit evidence?
+Metformin and certain SGLT2 inhibitors/GLP-1 agonists (metformin is first-line).
+Insulin as first-line.
+Sulfonylureas only.
+Thiazolidinediones.
+
+A drug that increases the effect of another drug without having activity on its own is called:
+Pharmacokinetic or pharmacodynamic potentiator; generally an enhancer.
+Antagonist.
+Competitive inhibitor.
+Partial agonist.
+
+Which agent is used to reverse neuromuscular blockade produced by non-depolarizing neuromuscular blockers by inhibiting acetylcholinesterase?
+Neostigmine (often with atropine to limit muscarinic effects).
+Succinylcholine.
+Pancuronium.
+Sugammadex.
+
+Which antihypertensive class may cause a dry cough as a side effect?
+ACE inhibitors.
+ARBs.
+Calcium channel blockers.
+Beta-blockers.
+
+Which drug is used as a mucolytic and acetaminophen antidote precursor in the liver?
+N-acetylcysteine.
+Bromhexine.
+Dornase alfa.
+Ambroxol.
+
+Which of the following beta-blockers has intrinsic sympathomimetic activity (ISA)?
+Pindolol.
+Propranolol.
+Metoprolol.
+Atenolol.
+
+The primary mechanism of action of benzodiazepines is:
+Positive allosteric modulation of GABA-A receptors increasing frequency of channel opening.
+Direct agonism at NMDA receptors.
+Inhibition of serotonin reuptake.
+Blockade of dopamine D2 receptors.
+
+Which antiplatelet agent is a cyclooxygenase (COX) inhibitor?
+Aspirin (irreversible COX-1 inhibitor in platelets).
+Clopidogrel.
+Abciximab.
+Ticagrelor.
+
+Which of these antibiotics binds to the 50S ribosomal subunit and blocks translocation?
+Macrolides (e.g., erythromycin).
+Aminoglycosides.
+Tetracyclines.
+Fluoroquinolones.
+
+Which antihyperglycemic class increases urinary glucose excretion by inhibiting SGLT2 in the proximal tubule?
+SGLT2 inhibitors (e.g., canagliflozin).
+DPP-4 inhibitors.
+GLP-1 receptor agonists.
+Sulfonylureas.
+
+Which antipsychotic is a typical (first-generation) antipsychotic with high D2 antagonism and higher extrapyramidal side effects?
+Haloperidol.
+Olanzapine.
+Risperidone.
+Clozapine.
+
+Which drug used in asthma is a short-acting beta-2 agonist for acute relief?
+Salbutamol (albuterol).
+Salmeterol (long-acting).
+Montelukast.
+Prednisone.
+
+Which of the following is a nonselective COX inhibitor used for pain and inflammation?
+Ibuprofen.
+Celecoxib (COX-2 selective).
+Acetaminophen (minimal anti-inflammatory).
+Prednisone (steroid).
+
+The recommended initial treatment for anaphylaxis includes:
+Intramuscular epinephrine.
+IV hydrocortisone only.
+Antihistamine alone.
+Nebulized bronchodilator only.
+
+Which drug reduces uric acid production by inhibiting xanthine oxidase?
+Allopurinol.
+Probenecid.
+Colchicine.
+Febuxostat.
+
+Which benzodiazepine is preferred for alcohol withdrawal due to long half-life and active metabolites?
+Diazepam.
+Alprazolam.
+Lorazepam (preferred when hepatic impairment present).
+Midazolam.
+
+The mechanism of action of clonidine in lowering blood pressure involves:
+Central alpha-2 adrenergic agonism reducing sympathetic outflow.
+Peripheral alpha-1 blockade.
+Beta-1 blockade in the heart.
+ACE inhibition.
+
+Which drug is a lipophilic statin with higher likelihood of drug–drug interactions via CYP3A4?
+Atorvastatin.
+Pravastatin (not via CYP3A4).
+Rosuvastatin.
+Fluvastatin.
+
+Which of the following is a neuraminidase inhibitor used to treat influenza A and B?
+Oseltamivir.
+Amantadine (older, influenza A only and resistant issues).
+Acyclovir.
+Zanamivir.
+
+Which drug is used as long-term anticoagulation and requires monitoring of INR?
+Warfarin.
+Heparin (requires aPTT monitoring).
+Fondaparinux.
+Rivaroxaban (no routine monitoring typically).
+
+Which antitubercular drug can cause peripheral neuropathy and requires pyridoxine (vitamin B6) supplementation?
+Isoniazid.
+Rifampicin.
+Ethambutol.
+Pyrazinamide.
+
+The mechanism of action of amphotericin B involves:
+Binding ergosterol and forming membrane pores.
+Inhibiting beta-glucan synthesis.
+Blocking squalene epoxidase.
+Inhibiting 14-alpha-demethylase.
+
+Which of the following drugs is an ACE inhibitor that is also a prodrug activated in the liver?
+Enalapril (converted to enalaprilat).
+Lisinopril (active drug, excreted unchanged).
+Captopril.
+Losartan (an ARB).
+
+Which of these antibiotics is bactericidal by inhibiting cell wall synthesis but is ineffective against MRSA (historically)?
+Penicillin G (MRSA resistant due to altered PBPs).
+Vancomycin (active against MRSA).
+Nafcillin (anti-staphylococcal penicillin active against MSSA).
+Daptomycin.
+
+A drug that blocks HMG-CoA reductase will primarily decrease which intracellular molecule leading to lower cholesterol synthesis?
+Mevalonate.
+Acetyl-CoA only.
+Squalene exclusively.
+LDL receptors directly.
+
+Which antiarrhythmic drug is a Class IA agent that prolongs the action potential and blocks sodium channels?
+Quinidine.
+Lidocaine (Class IB).
+Amiodarone (Class III).
+Propranolol (Class II).
+
+Which agent is used to treat serotonin syndrome by antagonizing serotonin receptors and providing supportive care?
+Cyproheptadine.
+Naloxone.
+Flumazenil.
+Physostigmine.
+
+Which drug used in peptic ulcer disease is an H2 receptor antagonist?
+Ranitidine.
+Omeprazole (PPI).
+Sucralfate.
+Misoprostol.
+
+Which antiplatelet drug is a GPIIb/IIIa receptor inhibitor used IV in acute coronary syndromes?
+Abciximab.
+Clopidogrel.
+Aspirin.
+Ticlopidine.
+
+Which of the following antihypertensive drugs works by inhibiting the angiotensin-converting enzyme?
+Lisinopril.
+Losartan.
+Spironolactone.
+Diltiazem.
+
+Which antiepileptic causes gingival hyperplasia as a common adverse effect?
+Phenytoin.
+Valproate.
+Carbamazepine.
+Levetiracetam.
+
+Which chemotherapeutic agent is an alkylating agent that cross-links DNA and is used in many cancers?
+Cyclophosphamide.
+Methotrexate.
+Doxorubicin.
+Vincristine.
+
+Which enzyme converts angiotensin I to angiotensin II?
+Angiotensin-converting enzyme (ACE).
+Renin.
+Aldosterone synthase.
+ACE2 only.
+
+Which medication used for bipolar disorder can cause thyroid dysfunction and requires monitoring of thyroid function tests?
+Lithium.
+Valproate.
+Carbamazepine.
+Lamotrigine.
+
+Which of the following is a reversible competitive antagonist at H1 receptors (second-generation antihistamine)?
+Loratadine.
+Diphenhydramine (first-generation, sedating).
+Chlorpheniramine.
+Promethazine.
+
+The mechanism of action of omalizumab in severe allergic asthma involves:
+Binding to free IgE and preventing IgE binding to receptors on mast cells.
+Blocking leukotriene receptors.
+Beta-2 agonism.
+Inhibiting phosphodiesterase.
+
+Which drug reduces heart rate and contractility primarily via beta-1 adrenergic blockade and is cardioselective at low doses?
+Metoprolol.
+Propranolol (nonselective).
+Carvedilol (alpha and beta blocker).
+Labetalol.
+
+Which medication is a monoclonal antibody against TNF-alpha used in rheumatoid arthritis?
+Infliximab.
+Methotrexate.
+Hydroxychloroquine.
+Sulfasalazine.
+
+Which of the following is a loop diuretic adverse effect?
+Hypokalemia and ototoxicity.
+Hyperkalemia and gynecomastia.
+Metabolic acidosis only.
+Photosensitivity.
+
+Which drug used in HIV therapy is a nucleoside reverse transcriptase inhibitor (NRTI)?
+Zidovudine (AZT).
+Efavirenz (NNRTI).
+Ritonavir (protease inhibitor).
+Enfuvirtide (fusion inhibitor).
+
+Which of the following drugs is associated with aplastic anemia as a rare but serious adverse effect?
+Chloramphenicol.
+Amoxicillin.
+Ceftriaxone.
+Erythromycin.
+
+The main mechanism of action of suxamethonium (succinylcholine) is:
+Depolarizing neuromuscular blockade by persistent activation of nicotinic receptors at the neuromuscular junction.
+Nondepolarizing blockade.
+Central neuromuscular inhibition.
+Anticholinesterase activity.
+
+Which drug is a selective COX-2 inhibitor developed to reduce GI bleeding risk?
+Celecoxib.
+Aspirin.
+Ibuprofen.
+Naproxen.
+
+Which of the following proton pump inhibitors requires activation in acidic parietal cell canaliculi and is a prodrug?
+Omeprazole.
+Ranitidine.
+Bismuth subsalicylate.
+Aluminum hydroxide.
+
+Which of the following antimalarial drugs is used for Plasmodium falciparum and acts on heme polymerization?
+Chloroquine.
+Primaquine.
+Mefloquine.
+Artemisinin derivatives.
+
+Which lipid-lowering agent primarily increases HDL levels?
+Niacin (vitamin B3).
+Statins primarily lower LDL.
+Fibrates mainly lower TG.
+Bile acid sequestrants primarily lower LDL.
+
+Which of the following drugs is an NMDA receptor antagonist used for anesthesia and can cause emergence delirium?
+Ketamine.
+Propofol.
+Etomidate.
+Thiopental.
+
+The mechanism of action of omeprazole leads to decreased absorption of which vitamin with long-term use?
+Vitamin B12 (due to reduced gastric acid needed for release from food).
+Vitamin C.
+Vitamin K.
+Vitamin D.
+
+Which oral hypoglycemic agent works by closing K-ATP channels in pancreatic beta-cell membranes to stimulate insulin release?
+Sulfonylureas (e.g., glibenclamide/glyburide).
+Metformin.
+Pioglitazone.
+Acarbose.
+
+Which medication is commonly used for migraine prophylaxis and is a beta-blocker?
+Propranolol.
+Sumatriptan (acute therapy).
+Amitriptyline (also used but classic prophylactic beta-blocker: propranolol).
+Naproxen.
+
+Which drug is an antimuscarinic used to treat overactive bladder by reducing detrusor muscle contractions?
+Oxybutynin.
+Bethanechol (muscarinic agonist).
+Tamsulosin (alpha-1 antagonist for BPH).
+Finasteride.
+
+Which chemotherapeutic agent intercalates DNA and causes cardiotoxicity (dose-dependent)?
+Doxorubicin (an anthracycline).
+Cisplatin.
+Vincristine.
+Methotrexate.
+
+Which agent is used for reversal of warfarin effects in life-threatening bleeding?
+Prothrombin complex concentrate (PCC) and vitamin K.
+Fresh frozen plasma only.
+Aspirin.
+Protamine sulfate.
+
+Which of the following is a long-acting benzodiazepine useful for insomnia due to its duration?
+Flurazepam.
+Midazolam (short-acting).
+Triazolam (short-acting).
+Lorazepam (intermediate).
+
+Which drug class uses activation of PPAR-alpha to lower triglycerides?
+Fibrates (e.g., gemfibrozil).
+Statins.
+Bile acid sequestrants.
+Niacin.
+
+Which inhaled anesthetic has the least metabolism and thus minimal hepatotoxicity risk?
+Nitrous oxide.
+Halothane (hepatotoxicity risk).
+Enflurane.
+Isoflurane.
+
+Which antihypertensive can cause hyperkalemia due to decreased aldosterone production?
+ACE inhibitors (e.g., lisinopril).
+Thiazide diuretics (cause hypokalemia).
+Loop diuretics.
+Alpha blockers.
+
+Which drug is an aldosterone antagonist used in heart failure that can cause gynecomastia?
+Spironolactone.
+Eplerenone (less endocrine side effects).
+Amiloride.
+Furosemide.
+
+Which of the following is an example of a biologic DMARD used in rheumatoid arthritis that targets interleukin-6 or TNF?
+Tocilizumab (IL-6) or infliximab (TNF).
+Methotrexate (traditional DMARD).
+Hydroxychloroquine.
+Sulfasalazine.
+
+Which medication used in Parkinson disease is a COMT inhibitor that prolongs levodopa effect?
+Entacapone.
+Selegiline (MAO-B inhibitor).
+Benztropine.
+Amantadine.
+
+Which antiemetic is a 5-HT3 receptor antagonist commonly used after chemotherapy?
+Ondansetron.
+Metoclopramide.
+Promethazine.
+Domperidone.
+
+Which of the following drugs is associated with red man syndrome when infused rapidly?
+Vancomycin.
+Gentamicin.
+Penicillin.
+Cefazolin.
+
+Which anticoagulant works by binding and activating antithrombin III to inhibit factor Xa and IIa?
+Unfractionated heparin.
+Warfarin.
+Dabigatran (direct thrombin inhibitor).
+Rivaroxaban (direct factor Xa inhibitor).
+
+Which of the following is a commonly used topical antifungal that inhibits squalene epoxidase?
+Terbinafine.
+Fluconazole (systemic azole).
+Nystatin.
+Clotrimazole.
+
+Which medication can cause ototoxicity when coadministered with aminoglycosides?
+Loop diuretics (e.g., furosemide) increase risk of ototoxicity.
+Beta-blockers.
+ACE inhibitors.
+Statins.
+
+Which antithyroid drug inhibits thyroid peroxidase and peripheral conversion of T4 to T3 (at high doses)?
+Propylthiouracil (PTU) inhibits peroxidase and peripheral conversion.
+Methimazole.
+Levothyroxine (replacement).
+Propranolol (symptomatic control).
+
+Which of the following agents is used as rescue therapy for malignant hyperthermia by inhibiting ryanodine receptors and reducing calcium release from SR?
+Dantrolene.
+Succinylcholine (triggering agent).
+Rocuronium.
+Halothane (triggering agent).
+
+Which drug is an alpha-1 selective blocker used to treat benign prostatic hyperplasia and can cause orthostatic hypotension?
+Tamsulosin (alpha-1A selective) or terazosin (nonselective alpha-1 blocker causing orthostasis).
+Finasteride (5-alpha reductase inhibitor).
+Dutasteride.
+Oxybutynin.
+
+Which of the following antivirals inhibits neuraminidase and is used within 48 hours of influenza symptom onset?
+Oseltamivir.
+Acyclovir.
+Valacyclovir.
+Ganciclovir.
+
+Which class of drugs is contraindicated in pregnancy due to risk of fetal renal damage and oligohydramnios?
+ACE inhibitors and ARBs.
+Beta-blockers.
+Calcium channel blockers.
+Thiazide diuretics.
+
+Which of the following is a long-acting muscarinic antagonist used as maintenance therapy in COPD?
+Tiotropium.
+Ipratropium (short-acting).
+Salbutamol.
+Fluticasone.
+
+Which drug used in ADHD is a noradrenaline and dopamine reuptake inhibitor?
+Methylphenidate.
+Atomoxetine.
+Fluoxetine.
+Modafinil.
+
+Which of the following is a macrolide antibiotic that may prolong QT interval?
+Erythromycin.
+Penicillin V.
+Vancomycin.
+Ceftriaxone.
+
+Which drug is indicated for chronic heart failure with reduced ejection fraction and antagonizes neprilysin when combined with valsartan?
+Sacubitril/valsartan (ARNI).
+Lisinopril alone.
+Spironolactone alone.
+Digoxin.
+
+Which drug is indicated for chronic heart failure with reduced ejection fraction and antagonizes neprilysin when combined with valsartan?
+Sacubitril/valsartan (ARNI).
+Lisinopril alone.
+Spironolactone alone.
+Digoxin.
+
+Which diuretic acts on the thick ascending limb of the loop of Henle?
+Furosemide.
+Spironolactone.
+Acetazolamide.
+Hydrochlorothiazide.
+
+Which of the following is a potassium-sparing diuretic?
+Spironolactone.
+Furosemide.
+Mannitol.
+Chlorthalidone.
+
+Which diuretic can cause gynecomastia as an adverse effect?
+Spironolactone.
+Furosemide.
+Acetazolamide.
+Indapamide.
+
+Which of the following diuretics causes metabolic acidosis?
+Acetazolamide.
+Furosemide.
+Spironolactone.
+Metolazone.
+
+Which of the following is an osmotic diuretic?
+Mannitol.
+Furosemide.
+Amiloride.
+Indapamide.
+
+Loop diuretics can cause which of the following adverse effects?
+Ototoxicity.
+Hyperkalemia.
+Metabolic acidosis.
+Bradycardia.
+
+Which diuretic is preferred in acute pulmonary edema?
+Furosemide.
+Hydrochlorothiazide.
+Amiloride.
+Acetazolamide.
+
+Which diuretic acts as an aldosterone antagonist?
+Spironolactone.
+Bumetanide.
+Mannitol.
+Ethacrynic acid.
+
+Which diuretic increases calcium reabsorption in the kidney?
+Thiazides.
+Loop diuretics.
+Osmotic diuretics.
+Potassium-sparing diuretics.
+
+Which antibiotic inhibits bacterial cell wall synthesis?
+Penicillin.
+Tetracycline.
+Erythromycin.
+Ciprofloxacin.
+
+Which of the following antibiotics acts by inhibiting protein synthesis at the 30S ribosomal subunit?
+Aminoglycosides.
+Macrolides.
+Chloramphenicol.
+Rifampin.
+
+Which antibiotic is associated with ototoxicity and nephrotoxicity?
+Gentamicin.
+Azithromycin.
+Ceftriaxone.
+Vancomycin.
+
+Which antibiotic can cause tendinitis and tendon rupture?
+Ciprofloxacin.
+Penicillin.
+Erythromycin.
+Doxycycline.
+
+Which antibiotic is contraindicated in pregnancy due to teeth discoloration?
+Tetracycline.
+Amoxicillin.
+Cephalexin.
+Azithromycin.
+
+Which beta-blocker is cardioselective?
+Metoprolol.
+Propranolol.
+Nadolol.
+Timolol.
+
+Which beta-blocker is used in the treatment of chronic heart failure?
+Carvedilol.
+Atenolol.
+Esmolol.
+Pindolol.
+
+Which beta-blocker is also used for glaucoma?
+Timolol.
+Metoprolol.
+Atenolol.
+Bisoprolol.
+
+Sudden withdrawal of beta-blockers can lead to:
+Rebound hypertension.
+Bradycardia.
+Hypotension.
+Fatigue.
+
+Which beta-blocker has intrinsic sympathomimetic activity?
+Pindolol.
+Propranolol.
+Nadolol.
+Metoprolol.
+
+Which of the following best describes the mechanism of action of NSAIDs?
+Inhibition of cyclooxygenase enzymes.
+Activation of prostaglandin synthesis.
+Inhibition of histamine release.
+Activation of lipoxygenase pathway.
+
+Which of the following NSAIDs is most selective for COX-2 inhibition?
+Celecoxib.
+Ibuprofen.
+Aspirin.
+Indomethacin.
+
+Which of the following is an irreversible inhibitor of COX enzymes?
+Aspirin.
+Diclofenac.
+Naproxen.
+Ketorolac.
+
+Gastrointestinal bleeding due to NSAIDs is primarily due to inhibition of:
+COX-1.
+COX-2.
+5-LOX.
+Phospholipase A2.
+
+Which of the following NSAIDs is safest in patients with peptic ulcer disease?
+Celecoxib.
+Indomethacin.
+Piroxicam.
+Ketoprofen.
+
+Which NSAID is contraindicated in children with viral infections due to Reye’s syndrome risk?
+Aspirin.
+Naproxen.
+Ibuprofen.
+Diclofenac.
+
+Which of the following NSAIDs has the longest half-life?
+Piroxicam.
+Ketorolac.
+Ibuprofen.
+Diclofenac.
+
+Which drug is a non-acidic NSAID with weak anti-inflammatory effect?
+Paracetamol.
+Indomethacin.
+Naproxen.
+Ketoprofen.
+
+Which NSAID is preferred for closure of patent ductus arteriosus in neonates?
+Indomethacin.
+Ibuprofen.
+Aspirin.
+Diclofenac.
+
+Which NSAID is associated with the highest risk of nephrotoxicity?
+Indomethacin.
+Ibuprofen.
+Naproxen.
+Ketoprofen.
+
+A 36-year-old woman with a history of poorly controlled thyrotoxicosis has recurrent episodes of tachycardia with severe shortness of breath. When she is admitted to the emergency department with one of these episodes, which of the following drugs would be most suitable?
+Esmolol
+Disopyramide
+Amiodarone
+Ouinidine

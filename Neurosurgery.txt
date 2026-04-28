@@ -1,0 +1,779 @@
+The most common primary intramedullary spinal cord tumor in adults is:
+Ependymoma
+Astrocytoma
+Meningioma
+Schwannoma
+
+The most common intramedullary spinal cord tumor in children is:
+Astrocytoma
+Ependymoma
+Hemangioblastoma
+Oligodendroglioma
+
+The most common extramedullary intradural spinal tumor is:
+Meningioma
+Ependymoma
+Astrocytoma
+Glioblastoma
+
+The most common extradural spinal tumor is:
+Metastatic tumor
+Schwannoma
+Meningioma
+Ependymoma
+
+The gold standard imaging technique for diagnosing spinal cord tumors is:
+MRI with contrast
+CT myelography
+Plain X-ray
+Ultrasonography
+
+Which of the following tumors arises from Schwann cells of nerve roots?
+Schwannoma
+Ependymoma
+Astrocytoma
+Meningioma
+
+Which of the following tumors is most commonly associated with Neurofibromatosis type 2 (NF2)?
+Meningioma
+Ependymoma
+Glioblastoma
+Astrocytoma
+
+The hallmark symptom of spinal cord tumors is:
+Progressive back pain
+Headache
+Seizures
+Diplopia
+
+A characteristic feature of intramedullary tumors is:
+Dissociated sensory loss
+Root pain
+Early motor weakness
+Sphincter involvement at onset
+
+The treatment of choice for most spinal meningiomas is:
+Surgical resection
+Radiation therapy alone
+Chemotherapy
+Observation only
+
+A 'dumbbell-shaped' tumor on MRI is characteristic of:
+Schwannoma
+Meningioma
+Ependymoma
+Astrocytoma
+
+Which of the following tumors is most likely to cause hemorrhage into the spinal cord?
+Hemangioblastoma
+Astrocytoma
+Meningioma
+Ependymoma
+
+Which tumor often occurs at the filum terminale or conus medullaris?
+Myxopapillary ependymoma
+Schwannoma
+Astrocytoma
+Glioblastoma
+
+Which of the following is NOT a typical symptom of spinal cord compression?
+Facial paresis
+Paraparesis
+Sensory level
+Urinary retention
+
+The main role of radiotherapy in spinal tumors is:
+Adjunct to surgery or for inoperable malignant tumors
+First-line therapy for all tumors
+Only for benign tumors
+Contraindicated in metastasis
+
+The most common site of spinal metastases is:
+Thoracic spine
+Cervical spine
+Lumbar spine
+Sacral spine
+
+Which symptom most strongly suggests an extramedullary (not intramedullary) spinal tumor?
+Root pain preceding motor weakness
+Dissociated sensory loss
+Early sphincter disturbance
+Central cord syndrome
+
+A patient with a spinal ependymoma often presents with:
+Slowly progressive paraparesis and back pain
+Sudden onset hemiplegia
+Recurrent seizures
+Facial paralysis
+
+The most reliable method to confirm the histological type of spinal tumor is:
+Biopsy and histopathological examination
+MRI with contrast
+CT scan
+CSF cytology
+
+The primary goal of surgery for intramedullary spinal cord tumors is:
+Maximal safe resection while preserving neurological function
+Total excision regardless of deficits
+Biopsy only
+Drainage of cystic component only
+
+Which imaging modality is the first choice for evaluating acute traumatic brain injury (TBI)?
+CT scan of the head
+MRI brain
+PET scan
+EEG
+
+Which investigation best detects subarachnoid hemorrhage in the acute stage?
+Non-contrast CT scan
+MRI with contrast
+Cerebral angiography
+Lumbar puncture
+
+Which diagnostic tool is preferred for detecting cerebral aneurysms?
+Digital Subtraction Angiography (DSA)
+CT scan
+EEG
+EMG
+
+Which test is most useful for assessing electrical activity of the brain?
+EEG
+EMG
+CT
+MRI
+
+Which neuroimaging method gives the best detail of soft tissue structures of the brain and spinal cord?
+MRI
+CT
+Ultrasound
+PET
+
+Which diagnostic tool is used to evaluate nerve conduction disorders such as neuropathies?
+Nerve conduction study (NCS)
+MRI
+PET
+EEG
+
+Which diagnostic method is most specific for spinal cord tumors?
+MRI with contrast
+X-ray spine
+CT myelography
+Ultrasound
+
+For detection of cerebral ischemia and infarction, the most sensitive imaging technique is:
+Diffusion-weighted MRI
+CT brain
+PET scan
+EEG
+
+Which diagnostic procedure is most suitable for evaluating cerebral blood flow?
+CT or MR angiography
+EEG
+EMG
+PET
+
+To detect elevated intracranial pressure indirectly, which diagnostic tool can be useful?
+Fundoscopy
+EEG
+MRI
+EMG
+
+Which investigation is most suitable for diagnosing brain abscess?
+Contrast-enhanced CT
+Non-contrast MRI
+EEG
+Ultrasound
+
+Which diagnostic test is essential before surgical decompression in spinal trauma?
+MRI of the spine
+EEG
+PET
+X-ray chest
+
+Which investigation is the gold standard for diagnosing intracranial aneurysms before surgery?
+Digital Subtraction Angiography (DSA)
+MRI
+CT
+EEG
+
+Which test evaluates muscle electrical activity in suspected motor neuron disease?
+EMG
+EEG
+PET
+MRI
+
+Which imaging technique best shows bone detail in skull fractures?
+CT scan bone window
+MRI
+PET
+EEG
+
+Which diagnostic modality is best for differentiating between hemorrhagic and ischemic stroke in emergency?
+Non-contrast CT
+MRI
+PET
+EEG
+
+In suspected meningitis with no contraindication, which diagnostic test is confirmatory?
+Lumbar puncture with CSF analysis
+CT scan
+MRI
+EEG
+
+Which imaging technique is most effective for identifying pituitary tumors?
+MRI of the sella turcica
+CT brain
+EEG
+X-ray skull
+
+Which investigation is ideal for detecting herniated intervertebral disc?
+MRI spine
+X-ray spine
+EMG
+CT
+
+Which diagnostic test is used to assess cerebrospinal fluid pressure and composition?
+Lumbar puncture
+CT
+MRI
+EEG
+
+Which investigation is best for locating intracranial tumors before surgical removal?
+MRI with contrast
+CT
+EEG
+X-ray skull
+
+Which test is primarily used to evaluate seizure disorders?
+EEG
+MRI
+CT
+PET
+
+Which diagnostic method is preferred to evaluate cerebral venous thrombosis?
+MR venography
+CT brain
+EEG
+EMG
+
+Which investigation provides functional imaging of the brain to assess metabolism?
+PET scan
+CT
+MRI
+EEG
+
+Which test is useful for intraoperative localization of eloquent brain areas?
+Cortical mapping
+CT
+PET
+EEG
+
+Which diagnostic tool is preferred for evaluating hydrocephalus?
+CT brain
+PET
+EEG
+EMG
+
+Which test helps in diagnosing peripheral nerve injury severity?
+Nerve conduction study
+EEG
+MRI
+PET
+
+Which investigation can identify small intracranial metastases most accurately?
+Contrast-enhanced MRI
+CT brain
+PET
+EEG
+
+In cases of suspected arteriovenous malformation (AVM), the investigation of choice is:
+Cerebral angiography
+EEG
+MRI
+CT
+
+Which test should be performed to confirm brain death?
+EEG showing electrocerebral silence
+CT scan
+MRI
+PET
+
+Which is the most common primary brain tumor in adults?
+Meningioma
+Glioblastoma multiforme
+Oligodendroglioma
+Medulloblastoma
+
+Which of the following is the most common benign brain tumor?
+Meningioma
+Astrocytoma
+Schwannoma
+Craniopharyngioma
+
+Which glial tumor is considered WHO grade IV and highly malignant?
+Glioblastoma multiforme
+Pilocytic astrocytoma
+Ependymoma
+Oligodendroglioma
+
+Which brain tumor commonly crosses the corpus callosum, forming a “butterfly lesion”?
+Glioblastoma multiforme
+Medulloblastoma
+Metastatic carcinoma
+Astrocytoma grade II
+
+Which tumor is most common in the cerebellum of children?
+Medulloblastoma
+Meningioma
+Glioblastoma
+Ependymoma
+
+Which tumor arises from the arachnoid cap cells?
+Meningioma
+Schwannoma
+Astrocytoma
+Craniopharyngioma
+
+Which cranial nerve is most commonly involved in acoustic neuroma?
+Vestibulocochlear nerve (VIII)
+Trigeminal nerve (V)
+Facial nerve (VII)
+Glossopharyngeal nerve (IX)
+
+Which brain tumor is most commonly associated with NF2 (Neurofibromatosis type II)?
+Bilateral vestibular schwannomas
+Optic gliomas
+Meningiomas
+Ependymomas
+
+Which tumor is characterized by “Rosenthal fibers” histologically?
+Pilocytic astrocytoma
+Medulloblastoma
+Glioblastoma
+Oligodendroglioma
+
+Which of the following tumors typically shows “perivascular pseudorosettes”?
+Ependymoma
+Meningioma
+Medulloblastoma
+Astrocytoma
+
+Which brain tumor shows “fried-egg” appearance on histology?
+Oligodendroglioma
+Glioblastoma
+Meningioma
+Ependymoma
+
+Which tumor arises from Rathke’s pouch remnants?
+Craniopharyngioma
+Pituitary adenoma
+Pineocytoma
+Ependymoma
+
+Which tumor often causes bitemporal hemianopia due to optic chiasm compression?
+Pituitary adenoma
+Craniopharyngioma
+Meningioma
+Glioma
+
+Which imaging modality is most useful for detecting brain tumors?
+MRI with contrast
+X-ray
+Ultrasound
+PET alone
+
+Which tumor is most likely to metastasize to the brain in adults?
+Lung carcinoma
+Prostate carcinoma
+Colorectal carcinoma
+Gastric carcinoma
+
+Which of the following is a tumor suppressor gene commonly mutated in glioblastoma?
+TP53
+EGFR
+KRAS
+MYC
+
+Which brain tumor is radioresistant and often treated with surgical resection?
+Meningioma
+Medulloblastoma
+Germinoma
+Ependymoma
+
+Which pediatric brain tumor often shows drop metastases along the spinal cord?
+Medulloblastoma
+Pilocytic astrocytoma
+Oligodendroglioma
+Craniopharyngioma
+
+Which of the following tumors is most likely to cause seizures in adults?
+Low-grade astrocytoma
+Medulloblastoma
+Ependymoma
+Schwannoma
+
+Which tumor marker is often elevated in germ cell brain tumors?
+Alpha-fetoprotein (AFP)
+CEA
+CA-125
+PSA
+
+The most common cause of head injury is:
+Road traffic accidents
+Falls
+Sports injury
+Assault
+
+The most frequent site of skull fracture is:
+Temporal bone
+Parietal bone
+Frontal bone
+Occipital bone
+
+The Glasgow Coma Scale (GCS) assesses:
+Level of consciousness
+Brainstem reflexes
+Motor strength
+Pupillary size
+
+GCS score range is:
+3–15
+0–10
+1–10
+5–20
+
+A GCS score ≤8 indicates:
+Severe traumatic brain injury
+Moderate
+Mild
+Brain death
+
+The most important initial step in head injury management is?
+Airway maintenance
+Stop bleeding
+IV fluids
+CT scan
+
+Decerebrate posturing indicates lesion at?
+Midbrain
+Cortex
+Pons
+Medulla
+
+Decorticate posturing indicates lesion at?
+Above red nucleus
+Below red nucleus
+Cerebellum
+Pons
+
+Earliest sign of raised intracranial pressure (ICP):
+Headache
+Papilledema
+Bradycardia
+Vomiting
+
+Cushing’s triad includes all except:
+Tachycardia
+Hypertension
+Bradycardia
+Irregular respiration
+
+Concussion is:
+Functional reversible disturbance of brain activity
+Structural damage
+Skull fracture
+Hemorrhage
+
+Brain contusion represents:
+Focal brain necrosis with hemorrhage
+Edema
+Diffuse axonal injury
+Skull fracture
+
+Coup injury occurs:
+At site of impact
+Opposite side
+Both sides
+None
+
+Contrecoup injury occurs:
+Opposite side of impact
+Same side
+None
+Both sides
+
+Diffuse axonal injury commonly involves:
+White matter tracts
+Cortex
+Brainstem
+Cerebellum
+
+Hallmark of diffuse axonal injury:
+Prolonged coma with normal CT
+Skull fracture
+Lucid interval
+CSF leak
+
+Lucid interval is characteristic of:
+Epidural hematoma
+Subdural hematoma
+Concussion
+Contusion
+
+Common artery involved in epidural hematoma:
+Middle meningeal artery
+Bridging veins
+Dural veins
+Sinus
+
+CT appearance of epidural hematoma:
+Lentiform (biconvex)
+Crescent-shaped
+Ring
+Diffuse
+
+CT appearance of subdural hematoma:
+Crescent-shaped
+Lentiform
+Round
+None
+
+Source of bleeding in subdural hematoma:
+Bridging veins
+Arterial
+Dural arteries
+Sinus
+
+Normal ICP range:
+5–15 mmHg
+15–25
+0–10
+25–35
+
+Classic triad of raised ICP:
+Headache, vomiting, papilledema
+Fever, coma, headache
+Tremor, coma, seizure
+Neck stiffness, fever, vomiting
+
+Uncal herniation compresses which nerve first?
+Oculomotor nerve (III)
+Optic
+Trochlear
+Facial
+
+“Blown pupil” indicates:
+Oculomotor nerve compression
+Optic nerve lesion
+Trochlear palsy
+Facial paralysis
+
+Most common site of spinal injury:
+Cervical spine
+Thoracic
+Lumbar
+Sacral
+
+“Hangman’s fracture” involves:
+C2 pars interarticularis
+C1 arch
+C3 body
+Odontoid
+
+“Jefferson fracture” involves:
+C1 ring
+C2 body
+C3 arch
+C4 spinous process
+
+Quadriplegia occurs in lesion at:
+Cervical cord
+Thoracic
+Lumbar
+Sacral
+
+Most dangerous complication of high cervical injury:
+Respiratory arrest
+Paraplegia
+Dysreflexia
+Infection
+
+Immobilization for suspected cervical spine injury:
+Jaw-thrust + rigid collar
+Chin lift
+Trendelenburg
+Head-tilt
+
+Best imaging for spinal cord injury:
+MRI
+CT
+Myelogram
+X-ray
+
+Treatment of acute spinal cord compression:
+High-dose corticosteroids
+Antibiotics
+Analgesics
+Anticoagulants
+
+Indication for urgent spinal surgery:
+Progressive neurological deficit
+Back pain only
+Fever
+Mild paresthesia
+
+Neurogenic shock is due to loss of:
+Sympathetic vascular tone
+Blood volume
+Cardiac output
+Adrenal hormones
+
+Post-traumatic epilepsy most common after:
+Cerebral contusion
+Concussion
+Skull fracture
+Diffuse axonal injury
+
+Commonest infection after open skull fracture:
+Meningitis
+Brain abscess
+Sepsis
+Osteomyelitis
+
+Most reliable imaging for acute head injury:
+CT scan (non-contrast)
+MRI
+PET
+X-ray
+
+“Battle’s sign” indicates fracture of:
+Temporal bone
+Frontal bone
+Occipital bone
+Ethmoid bone
+
+Persistent CSF rhinorrhea after basal skull fracture should be treated with:
+Lumbar drainage with antibiotics
+Sinus surgery
+Craniotomy
+Nasal packing
+
+The most common site of berry aneurysm formation is:
+Anterior communicating artery
+Basilar artery
+Posterior inferior cerebellar artery
+Middle cerebral artery
+
+The main cause of subarachnoid hemorrhage in adults is:
+Ruptured berry aneurysm
+Head trauma
+Hypertensive bleed
+AV malformation
+
+A 'thunderclap headache' is classically seen in:
+Subarachnoid hemorrhage
+Ischemic stroke
+Epidural hematoma
+Migraine
+
+The most common cause of intracerebral hemorrhage is:
+Hypertension
+Aneurysm rupture
+Amyloid angiopathy
+Trauma
+
+The most common type of stroke overall is:
+Ischemic stroke
+Hemorrhagic stroke
+Lacunar infarct
+Embolic stroke
+
+Aneurysms in the posterior communicating artery commonly cause:
+Oculomotor nerve palsy
+Facial paralysis
+Hearing loss
+Dysphagia
+
+The gold standard imaging for detecting cerebral aneurysm is:
+Digital subtraction angiography
+CT scan
+MRI
+Doppler ultrasound
+
+The main treatment for ruptured cerebral aneurysm is:
+Surgical clipping or endovascular coiling
+Steroid therapy
+Anticoagulation
+Observation only
+
+The most common cause of embolic stroke is:
+Atrial fibrillation
+Deep vein thrombosis
+Carotid aneurysm
+Pulmonary embolism
+
+The most common cause of death after subarachnoid hemorrhage is:
+Rebleeding
+Vasospasm
+Hydrocephalus
+Infection
+
+Aneurysmal subarachnoid hemorrhage typically shows blood in:
+Basal cisterns
+Lateral ventricles
+Epidural space
+Subdural space
+
+The characteristic finding of arteriovenous malformation (AVM) on imaging is:
+Tangle of abnormal vessels without intervening brain tissue
+Calcified plaque
+Cavernous sinus dilation
+Infarcted gray matter
+
+The middle cerebral artery supplies:
+Lateral surface of the cerebral hemisphere
+Medial surface of the frontal lobe
+Occipital cortex
+Inferior temporal lobe
+
+The penumbra in stroke refers to:
+Ischemic but potentially salvageable tissue
+Dead necrotic core
+Hemorrhagic zone
+Reactive gliosis
+
+The best initial imaging for suspected acute stroke is:
+Non-contrast CT
+MRI with contrast
+Angiography
+PET scan
+
+The most common site for hypertensive intracerebral hemorrhage is:
+Putamen
+Pons
+Cerebellum
+Thalamus
+
+The mainstay of ischemic stroke management within the window period is:
+Intravenous thrombolysis with tPA
+Antiplatelet therapy only
+Mannitol
+Surgical decompression
+
+A patient with 'worst headache of life' but normal CT should next undergo:
+Lumbar puncture
+MRI
+EEG
+Skull X-ray
+
+The most common congenital vascular malformation of the brain is:
+Arteriovenous malformation
+Cavernous angioma
+Capillary telangiectasia
+Venous angioma
+
+The main risk factor for aneurysm formation is:
+Hypertension
+Diabetes mellitus
+Hypotension
+Epilepsy
